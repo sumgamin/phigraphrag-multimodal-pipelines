@@ -1,0 +1,9 @@
+pdf2image
+pillow
+ollama
+sentence-transformers
+transformers
+torch
+tqdm
+python-dotenv
+neo4j

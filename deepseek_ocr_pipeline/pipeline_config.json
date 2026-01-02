@@ -1,0 +1,12 @@
+{
+  "pdf_input_dir": "/Users/srikargamini/Downloads/ocr_scripts/pdf_to_kg_v2_scripts/pdf_inputs",
+  "markdown_dir": "/Users/srikargamini/Downloads/ocr_scripts/pdf_to_kg_v2_scripts/ocr_outputs/md",
+  "crops_dir": "/Users/srikargamini/Downloads/ocr_scripts/pdf_to_kg_v2_scripts/ocr_outputs/crops",
+  "kg_out_dir": "/Users/srikargamini/Downloads/ocr_scripts/pdf_to_kg_v2_scripts/kg_out",
+  "ocr_model": "deepseek-ocr",
+  "dpi": 200,
+  "pad": 20,
+  "caption_model_ollama": "qwen2.5vl:3b",
+  "text_embed_model": "all-MiniLM-L6-v2",
+  "clip_model": "openai/clip-vit-base-patch32"
+}
