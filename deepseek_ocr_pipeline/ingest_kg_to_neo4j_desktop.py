@@ -29,8 +29,8 @@ from dotenv import load_dotenv
 # =========================
 # CONFIG: Put your URLs here
 # =========================
-TEXT_URL = "https://raw.githubusercontent.com/sumgamin/spencer_ra_project/refs/heads/main/text_chunks.jsonl"
-IMAGES_URL = "https://raw.githubusercontent.com/sumgamin/spencer_ra_project/refs/heads/main/images.jsonl"
+TEXT_URL = "https://raw.githubusercontent.com/***/text_chunks.jsonl"
+IMAGES_URL = "https://raw.githubusercontent.com/***/images.jsonl"
 
 
 # =========================
