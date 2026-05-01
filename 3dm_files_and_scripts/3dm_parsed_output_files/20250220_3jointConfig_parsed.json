@@ -1,0 +1,1422 @@
+{
+  "file": "/Users/srikargamini/Downloads/3dm_file_parser/3dm_input_files_dir/20250220_3jointConfig.3dm",
+  "summary": {
+    "layers": [
+      {
+        "index": 0,
+        "name": "Default",
+        "id": "89b55ad2-cd30-48cc-ae6c-e93ed1126494",
+        "parent_id": "00000000-0000-0000-0000-000000000000",
+        "fullpath": "Default",
+        "material_index": -1,
+        "render_material_index": -1,
+        "children": []
+      }
+    ],
+    "groups": [
+      {
+        "index": 0,
+        "name": "Group01"
+      },
+      {
+        "index": 1,
+        "name": "Group02"
+      },
+      {
+        "index": 2,
+        "name": "Group03"
+      },
+      {
+        "index": 3,
+        "name": "Group05"
+      },
+      {
+        "index": 4,
+        "name": "Group06"
+      },
+      {
+        "index": 5,
+        "name": "Group07"
+      }
+    ],
+    "materials": []
+  },
+  "objects": [
+    {
+      "id": "1c68b025-df0a-4eee-a222-c4ca0ed2ce9f",
+      "object_name": "(not named)",
+      "layer_name": "Default",
+      "render_material": {
+        "source": "from layer",
+        "index": -1
+      },
+      "groups": [
+        "Group05"
+      ],
+      "geometry": {
+        "raw_type": "LineCurve",
+        "type_flags": {
+          "is_curve": true,
+          "is_brep": false,
+          "is_surface": false,
+          "is_mesh": false
+        },
+        "bbox": {
+          "min": [
+            0.0,
+            0.0,
+            -161.7
+          ],
+          "max": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        "curve_details": {
+          "subtype": "LineCurve",
+          "start": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "end": [
+            0.0,
+            0.0,
+            -161.7
+          ],
+          "length": 161.7
+        },
+        "detail_keys": [
+          "curve_details"
+        ]
+      }
+    },
+    {
+      "id": "53934847-64ef-4aa2-8f76-d9ce15dcb317",
+      "object_name": "(not named)",
+      "layer_name": "Default",
+      "render_material": {
+        "source": "from layer",
+        "index": -1
+      },
+      "groups": [
+        "Group05"
+      ],
+      "geometry": {
+        "raw_type": "LineCurve",
+        "type_flags": {
+          "is_curve": true,
+          "is_brep": false,
+          "is_surface": false,
+          "is_mesh": false
+        },
+        "bbox": {
+          "min": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "max": [
+            0.0,
+            152.451839254555,
+            53.90108262273878
+          ]
+        },
+        "curve_details": {
+          "subtype": "LineCurve",
+          "start": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "end": [
+            0.0,
+            152.451839254555,
+            53.90108262273878
+          ],
+          "length": 161.7
+        },
+        "detail_keys": [
+          "curve_details"
+        ]
+      }
+    },
+    {
+      "id": "5e108835-b700-4419-a3cc-8489811911d8",
+      "object_name": "(not named)",
+      "layer_name": "Default",
+      "render_material": {
+        "source": "from layer",
+        "index": -1
+      },
+      "groups": [
+        "Group05"
+      ],
+      "geometry": {
+        "raw_type": "LineCurve",
+        "type_flags": {
+          "is_curve": true,
+          "is_brep": false,
+          "is_surface": false,
+          "is_mesh": false
+        },
+        "bbox": {
+          "min": [
+            -132.02716564810635,
+            -76.2259196272775,
+            0.0
+          ],
+          "max": [
+            0.0,
+            0.0,
+            53.901082622738784
+          ]
+        },
+        "curve_details": {
+          "subtype": "LineCurve",
+          "start": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "end": [
+            -132.02716564810635,
+            -76.2259196272775,
+            53.901082622738784
+          ],
+          "length": 161.7
+        },
+        "detail_keys": [
+          "curve_details"
+        ]
+      }
+    },
+    {
+      "id": "2f5d5a93-7141-4954-b594-f956d56df767",
+      "object_name": "(not named)",
+      "layer_name": "Default",
+      "render_material": {
+        "source": "from layer",
+        "index": -1
+      },
+      "groups": [
+        "Group05"
+      ],
+      "geometry": {
+        "raw_type": "LineCurve",
+        "type_flags": {
+          "is_curve": true,
+          "is_brep": false,
+          "is_surface": false,
+          "is_mesh": false
+        },
+        "bbox": {
+          "min": [
+            0.0,
+            -76.2259196272775,
+            0.0
+          ],
+          "max": [
+            132.02716564810635,
+            0.0,
+            53.901082622738784
+          ]
+        },
+        "curve_details": {
+          "subtype": "LineCurve",
+          "start": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "end": [
+            132.02716564810635,
+            -76.2259196272775,
+            53.901082622738784
+          ],
+          "length": 161.7
+        },
+        "detail_keys": [
+          "curve_details"
+        ]
+      }
+    },
+    {
+      "id": "92f25abb-d9f0-46e0-9f27-4e14981ea131",
+      "object_name": "(not named)",
+      "layer_name": "Default",
+      "render_material": {
+        "source": "from layer",
+        "index": -1
+      },
+      "groups": [
+        "Group03"
+      ],
+      "geometry": {
+        "raw_type": "LineCurve",
+        "type_flags": {
+          "is_curve": true,
+          "is_brep": false,
+          "is_surface": false,
+          "is_mesh": false
+        },
+        "bbox": {
+          "min": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "max": [
+            0.0,
+            0.0,
+            161.7
+          ]
+        },
+        "curve_details": {
+          "subtype": "LineCurve",
+          "start": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "end": [
+            0.0,
+            0.0,
+            161.7
+          ],
+          "length": 161.7
+        },
+        "detail_keys": [
+          "curve_details"
+        ]
+      }
+    },
+    {
+      "id": "3b4ff772-a058-4195-b32d-0c1a9574c45e",
+      "object_name": "(not named)",
+      "layer_name": "Default",
+      "render_material": {
+        "source": "from layer",
+        "index": -1
+      },
+      "groups": [
+        "Group03"
+      ],
+      "geometry": {
+        "raw_type": "LineCurve",
+        "type_flags": {
+          "is_curve": true,
+          "is_brep": false,
+          "is_surface": false,
+          "is_mesh": false
+        },
+        "bbox": {
+          "min": [
+            0.0,
+            -152.451839254555,
+            -53.90108262273878
+          ],
+          "max": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        "curve_details": {
+          "subtype": "LineCurve",
+          "start": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "end": [
+            0.0,
+            -152.451839254555,
+            -53.90108262273878
+          ],
+          "length": 161.7
+        },
+        "detail_keys": [
+          "curve_details"
+        ]
+      }
+    },
+    {
+      "id": "213585d2-320b-46e8-bda2-22e1c684cd00",
+      "object_name": "(not named)",
+      "layer_name": "Default",
+      "render_material": {
+        "source": "from layer",
+        "index": -1
+      },
+      "groups": [
+        "Group03"
+      ],
+      "geometry": {
+        "raw_type": "LineCurve",
+        "type_flags": {
+          "is_curve": true,
+          "is_brep": false,
+          "is_surface": false,
+          "is_mesh": false
+        },
+        "bbox": {
+          "min": [
+            0.0,
+            0.0,
+            -53.901082622738784
+          ],
+          "max": [
+            132.02716564810635,
+            76.2259196272775,
+            0.0
+          ]
+        },
+        "curve_details": {
+          "subtype": "LineCurve",
+          "start": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "end": [
+            132.02716564810635,
+            76.2259196272775,
+            -53.901082622738784
+          ],
+          "length": 161.7
+        },
+        "detail_keys": [
+          "curve_details"
+        ]
+      }
+    },
+    {
+      "id": "dbf4b9a3-b69d-41a2-be92-da8ddecda505",
+      "object_name": "(not named)",
+      "layer_name": "Default",
+      "render_material": {
+        "source": "from layer",
+        "index": -1
+      },
+      "groups": [
+        "Group03"
+      ],
+      "geometry": {
+        "raw_type": "LineCurve",
+        "type_flags": {
+          "is_curve": true,
+          "is_brep": false,
+          "is_surface": false,
+          "is_mesh": false
+        },
+        "bbox": {
+          "min": [
+            -132.02716564810635,
+            0.0,
+            -53.901082622738784
+          ],
+          "max": [
+            0.0,
+            76.2259196272775,
+            0.0
+          ]
+        },
+        "curve_details": {
+          "subtype": "LineCurve",
+          "start": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "end": [
+            -132.02716564810635,
+            76.2259196272775,
+            -53.901082622738784
+          ],
+          "length": 161.7
+        },
+        "detail_keys": [
+          "curve_details"
+        ]
+      }
+    },
+    {
+      "id": "aedbeebd-346d-4e16-a03e-1401cf1afd6c",
+      "object_name": "(not named)",
+      "layer_name": "Default",
+      "render_material": {
+        "source": "from layer",
+        "index": -1
+      },
+      "groups": [
+        "Group02"
+      ],
+      "geometry": {
+        "raw_type": "LineCurve",
+        "type_flags": {
+          "is_curve": true,
+          "is_brep": false,
+          "is_surface": false,
+          "is_mesh": false
+        },
+        "bbox": {
+          "min": [
+            999.9999999999998,
+            0.0,
+            0.0
+          ],
+          "max": [
+            999.9999999999998,
+            0.0,
+            161.7
+          ]
+        },
+        "curve_details": {
+          "subtype": "LineCurve",
+          "start": [
+            999.9999999999998,
+            0.0,
+            0.0
+          ],
+          "end": [
+            999.9999999999998,
+            0.0,
+            161.7
+          ],
+          "length": 161.7
+        },
+        "detail_keys": [
+          "curve_details"
+        ]
+      }
+    },
+    {
+      "id": "fd8ca409-c2ee-477b-925f-e40b1e73382a",
+      "object_name": "(not named)",
+      "layer_name": "Default",
+      "render_material": {
+        "source": "from layer",
+        "index": -1
+      },
+      "groups": [
+        "Group02"
+      ],
+      "geometry": {
+        "raw_type": "LineCurve",
+        "type_flags": {
+          "is_curve": true,
+          "is_brep": false,
+          "is_surface": false,
+          "is_mesh": false
+        },
+        "bbox": {
+          "min": [
+            999.9999999999998,
+            0.0,
+            -161.7
+          ],
+          "max": [
+            999.9999999999998,
+            0.0,
+            0.0
+          ]
+        },
+        "curve_details": {
+          "subtype": "LineCurve",
+          "start": [
+            999.9999999999998,
+            0.0,
+            0.0
+          ],
+          "end": [
+            999.9999999999998,
+            0.0,
+            -161.7
+          ],
+          "length": 161.7
+        },
+        "detail_keys": [
+          "curve_details"
+        ]
+      }
+    },
+    {
+      "id": "09da3bee-48c3-44cb-a28d-b2cb25048aa0",
+      "object_name": "(not named)",
+      "layer_name": "Default",
+      "render_material": {
+        "source": "from layer",
+        "index": -1
+      },
+      "groups": [
+        "Group02"
+      ],
+      "geometry": {
+        "raw_type": "LineCurve",
+        "type_flags": {
+          "is_curve": true,
+          "is_brep": false,
+          "is_surface": false,
+          "is_mesh": false
+        },
+        "bbox": {
+          "min": [
+            999.9999999999998,
+            0.0,
+            0.0
+          ],
+          "max": [
+            1161.6999999999998,
+            0.0,
+            0.0
+          ]
+        },
+        "curve_details": {
+          "subtype": "LineCurve",
+          "start": [
+            999.9999999999998,
+            0.0,
+            0.0
+          ],
+          "end": [
+            1161.6999999999998,
+            0.0,
+            0.0
+          ],
+          "length": 161.70000000000005
+        },
+        "detail_keys": [
+          "curve_details"
+        ]
+      }
+    },
+    {
+      "id": "4d36480b-1da2-41eb-acf6-1830a90e5d4f",
+      "object_name": "(not named)",
+      "layer_name": "Default",
+      "render_material": {
+        "source": "from layer",
+        "index": -1
+      },
+      "groups": [
+        "Group02"
+      ],
+      "geometry": {
+        "raw_type": "LineCurve",
+        "type_flags": {
+          "is_curve": true,
+          "is_brep": false,
+          "is_surface": false,
+          "is_mesh": false
+        },
+        "bbox": {
+          "min": [
+            999.9999999999998,
+            0.0,
+            0.0
+          ],
+          "max": [
+            999.9999999999998,
+            161.7,
+            0.0
+          ]
+        },
+        "curve_details": {
+          "subtype": "LineCurve",
+          "start": [
+            999.9999999999998,
+            0.0,
+            0.0
+          ],
+          "end": [
+            999.9999999999998,
+            161.7,
+            0.0
+          ],
+          "length": 161.7
+        },
+        "detail_keys": [
+          "curve_details"
+        ]
+      }
+    },
+    {
+      "id": "7f25fc8c-0500-401b-8c84-8f5a4719a61e",
+      "object_name": "(not named)",
+      "layer_name": "Default",
+      "render_material": {
+        "source": "from layer",
+        "index": -1
+      },
+      "groups": [
+        "Group07"
+      ],
+      "geometry": {
+        "raw_type": "LineCurve",
+        "type_flags": {
+          "is_curve": true,
+          "is_brep": false,
+          "is_surface": false,
+          "is_mesh": false
+        },
+        "bbox": {
+          "min": [
+            999.9999999999998,
+            0.0,
+            0.0
+          ],
+          "max": [
+            999.9999999999998,
+            0.0,
+            161.7
+          ]
+        },
+        "curve_details": {
+          "subtype": "LineCurve",
+          "start": [
+            999.9999999999998,
+            0.0,
+            0.0
+          ],
+          "end": [
+            999.9999999999998,
+            0.0,
+            161.7
+          ],
+          "length": 161.7
+        },
+        "detail_keys": [
+          "curve_details"
+        ]
+      }
+    },
+    {
+      "id": "0752f940-9ad9-4957-b592-dd3ece67c8b6",
+      "object_name": "(not named)",
+      "layer_name": "Default",
+      "render_material": {
+        "source": "from layer",
+        "index": -1
+      },
+      "groups": [
+        "Group07"
+      ],
+      "geometry": {
+        "raw_type": "LineCurve",
+        "type_flags": {
+          "is_curve": true,
+          "is_brep": false,
+          "is_surface": false,
+          "is_mesh": false
+        },
+        "bbox": {
+          "min": [
+            999.9999999999998,
+            0.0,
+            -161.7
+          ],
+          "max": [
+            999.9999999999998,
+            0.0,
+            0.0
+          ]
+        },
+        "curve_details": {
+          "subtype": "LineCurve",
+          "start": [
+            999.9999999999998,
+            0.0,
+            0.0
+          ],
+          "end": [
+            999.9999999999998,
+            0.0,
+            -161.7
+          ],
+          "length": 161.7
+        },
+        "detail_keys": [
+          "curve_details"
+        ]
+      }
+    },
+    {
+      "id": "76eb3b78-95d9-4b5e-b225-b43528ee294a",
+      "object_name": "(not named)",
+      "layer_name": "Default",
+      "render_material": {
+        "source": "from layer",
+        "index": -1
+      },
+      "groups": [
+        "Group07"
+      ],
+      "geometry": {
+        "raw_type": "LineCurve",
+        "type_flags": {
+          "is_curve": true,
+          "is_brep": false,
+          "is_surface": false,
+          "is_mesh": false
+        },
+        "bbox": {
+          "min": [
+            838.2999999999997,
+            0.0,
+            0.0
+          ],
+          "max": [
+            999.9999999999998,
+            0.0,
+            0.0
+          ]
+        },
+        "curve_details": {
+          "subtype": "LineCurve",
+          "start": [
+            999.9999999999998,
+            0.0,
+            0.0
+          ],
+          "end": [
+            838.2999999999997,
+            0.0,
+            0.0
+          ],
+          "length": 161.70000000000005
+        },
+        "detail_keys": [
+          "curve_details"
+        ]
+      }
+    },
+    {
+      "id": "53cc7df7-15be-451c-b1f3-331dec1567b5",
+      "object_name": "(not named)",
+      "layer_name": "Default",
+      "render_material": {
+        "source": "from layer",
+        "index": -1
+      },
+      "groups": [
+        "Group07"
+      ],
+      "geometry": {
+        "raw_type": "LineCurve",
+        "type_flags": {
+          "is_curve": true,
+          "is_brep": false,
+          "is_surface": false,
+          "is_mesh": false
+        },
+        "bbox": {
+          "min": [
+            999.9999999999998,
+            -161.7,
+            0.0
+          ],
+          "max": [
+            999.9999999999998,
+            0.0,
+            0.0
+          ]
+        },
+        "curve_details": {
+          "subtype": "LineCurve",
+          "start": [
+            999.9999999999998,
+            0.0,
+            0.0
+          ],
+          "end": [
+            999.9999999999998,
+            -161.7,
+            0.0
+          ],
+          "length": 161.7
+        },
+        "detail_keys": [
+          "curve_details"
+        ]
+      }
+    },
+    {
+      "id": "74ad28fe-0aba-4343-ad58-6599e4064b63",
+      "object_name": "(not named)",
+      "layer_name": "Default",
+      "render_material": {
+        "source": "from layer",
+        "index": -1
+      },
+      "groups": [
+        "Group06"
+      ],
+      "geometry": {
+        "raw_type": "LineCurve",
+        "type_flags": {
+          "is_curve": true,
+          "is_brep": false,
+          "is_surface": false,
+          "is_mesh": false
+        },
+        "bbox": {
+          "min": [
+            338.29999999999995,
+            0.0,
+            0.0
+          ],
+          "max": [
+            499.9999999999999,
+            0.0,
+            0.0
+          ]
+        },
+        "curve_details": {
+          "subtype": "LineCurve",
+          "start": [
+            499.9999999999999,
+            0.0,
+            0.0
+          ],
+          "end": [
+            338.29999999999995,
+            0.0,
+            0.0
+          ],
+          "length": 161.69999999999993
+        },
+        "detail_keys": [
+          "curve_details"
+        ]
+      }
+    },
+    {
+      "id": "183a99fc-aae5-4bf2-a71d-2ffe86b5df33",
+      "object_name": "(not named)",
+      "layer_name": "Default",
+      "render_material": {
+        "source": "from layer",
+        "index": -1
+      },
+      "groups": [
+        "Group06"
+      ],
+      "geometry": {
+        "raw_type": "LineCurve",
+        "type_flags": {
+          "is_curve": true,
+          "is_brep": false,
+          "is_surface": false,
+          "is_mesh": false
+        },
+        "bbox": {
+          "min": [
+            499.9999999999999,
+            -140.03630779194373,
+            0.0
+          ],
+          "max": [
+            580.8499999999999,
+            0.0,
+            0.0
+          ]
+        },
+        "curve_details": {
+          "subtype": "LineCurve",
+          "start": [
+            499.9999999999999,
+            0.0,
+            0.0
+          ],
+          "end": [
+            580.8499999999999,
+            -140.03630779194373,
+            0.0
+          ],
+          "length": 161.70000000000002
+        },
+        "detail_keys": [
+          "curve_details"
+        ]
+      }
+    },
+    {
+      "id": "2a4f55c2-6907-49c9-b8c5-5486e33a53fe",
+      "object_name": "(not named)",
+      "layer_name": "Default",
+      "render_material": {
+        "source": "from layer",
+        "index": -1
+      },
+      "groups": [
+        "Group06"
+      ],
+      "geometry": {
+        "raw_type": "LineCurve",
+        "type_flags": {
+          "is_curve": true,
+          "is_brep": false,
+          "is_surface": false,
+          "is_mesh": false
+        },
+        "bbox": {
+          "min": [
+            499.9999999999999,
+            0.0,
+            0.0
+          ],
+          "max": [
+            580.8499999999999,
+            140.0363077919437,
+            0.0
+          ]
+        },
+        "curve_details": {
+          "subtype": "LineCurve",
+          "start": [
+            499.9999999999999,
+            0.0,
+            0.0
+          ],
+          "end": [
+            580.8499999999999,
+            140.0363077919437,
+            0.0
+          ],
+          "length": 161.7
+        },
+        "detail_keys": [
+          "curve_details"
+        ]
+      }
+    },
+    {
+      "id": "d6d88c6e-bf00-46d3-a827-f875b770c622",
+      "object_name": "(not named)",
+      "layer_name": "Default",
+      "render_material": {
+        "source": "from layer",
+        "index": -1
+      },
+      "groups": [
+        "Group06"
+      ],
+      "geometry": {
+        "raw_type": "LineCurve",
+        "type_flags": {
+          "is_curve": true,
+          "is_brep": false,
+          "is_surface": false,
+          "is_mesh": false
+        },
+        "bbox": {
+          "min": [
+            499.9999999999999,
+            0.0,
+            0.0
+          ],
+          "max": [
+            499.9999999999999,
+            0.0,
+            161.7
+          ]
+        },
+        "curve_details": {
+          "subtype": "LineCurve",
+          "start": [
+            499.9999999999999,
+            0.0,
+            0.0
+          ],
+          "end": [
+            499.9999999999999,
+            0.0,
+            161.7
+          ],
+          "length": 161.7
+        },
+        "detail_keys": [
+          "curve_details"
+        ]
+      }
+    },
+    {
+      "id": "eb31ef27-9098-4c30-b097-5ae11dace2b1",
+      "object_name": "(not named)",
+      "layer_name": "Default",
+      "render_material": {
+        "source": "from layer",
+        "index": -1
+      },
+      "groups": "No group assigned",
+      "geometry": {
+        "raw_type": "LineCurve",
+        "type_flags": {
+          "is_curve": true,
+          "is_brep": false,
+          "is_surface": false,
+          "is_mesh": false
+        },
+        "bbox": {
+          "min": [
+            499.9999999999999,
+            0.0,
+            -161.7
+          ],
+          "max": [
+            499.9999999999999,
+            0.0,
+            0.0
+          ]
+        },
+        "curve_details": {
+          "subtype": "LineCurve",
+          "start": [
+            499.9999999999999,
+            0.0,
+            -161.7
+          ],
+          "end": [
+            499.9999999999999,
+            0.0,
+            0.0
+          ],
+          "length": 161.7
+        },
+        "detail_keys": [
+          "curve_details"
+        ]
+      }
+    },
+    {
+      "id": "a17aefd6-8622-4ea1-8c31-9fe4e816abc8",
+      "object_name": "(not named)",
+      "layer_name": "Default",
+      "render_material": {
+        "source": "from layer",
+        "index": -1
+      },
+      "groups": [
+        "Group01"
+      ],
+      "geometry": {
+        "raw_type": "LineCurve",
+        "type_flags": {
+          "is_curve": true,
+          "is_brep": false,
+          "is_surface": false,
+          "is_mesh": false
+        },
+        "bbox": {
+          "min": [
+            499.9999999999999,
+            0.0,
+            0.0
+          ],
+          "max": [
+            661.6999999999998,
+            0.0,
+            0.0
+          ]
+        },
+        "curve_details": {
+          "subtype": "LineCurve",
+          "start": [
+            499.9999999999999,
+            0.0,
+            0.0
+          ],
+          "end": [
+            661.6999999999998,
+            0.0,
+            0.0
+          ],
+          "length": 161.69999999999993
+        },
+        "detail_keys": [
+          "curve_details"
+        ]
+      }
+    },
+    {
+      "id": "4d7039ba-62c9-4e60-9d38-357c5268aac6",
+      "object_name": "(not named)",
+      "layer_name": "Default",
+      "render_material": {
+        "source": "from layer",
+        "index": -1
+      },
+      "groups": [
+        "Group01"
+      ],
+      "geometry": {
+        "raw_type": "LineCurve",
+        "type_flags": {
+          "is_curve": true,
+          "is_brep": false,
+          "is_surface": false,
+          "is_mesh": false
+        },
+        "bbox": {
+          "min": [
+            419.15,
+            0.0,
+            0.0
+          ],
+          "max": [
+            499.9999999999999,
+            140.03630779194373,
+            0.0
+          ]
+        },
+        "curve_details": {
+          "subtype": "LineCurve",
+          "start": [
+            499.9999999999999,
+            0.0,
+            0.0
+          ],
+          "end": [
+            419.15,
+            140.03630779194373,
+            0.0
+          ],
+          "length": 161.69999999999996
+        },
+        "detail_keys": [
+          "curve_details"
+        ]
+      }
+    },
+    {
+      "id": "f734602d-4326-493f-943d-49710c84a896",
+      "object_name": "(not named)",
+      "layer_name": "Default",
+      "render_material": {
+        "source": "from layer",
+        "index": -1
+      },
+      "groups": [
+        "Group01"
+      ],
+      "geometry": {
+        "raw_type": "LineCurve",
+        "type_flags": {
+          "is_curve": true,
+          "is_brep": false,
+          "is_surface": false,
+          "is_mesh": false
+        },
+        "bbox": {
+          "min": [
+            419.14999999999986,
+            -140.0363077919437,
+            0.0
+          ],
+          "max": [
+            499.9999999999999,
+            0.0,
+            0.0
+          ]
+        },
+        "curve_details": {
+          "subtype": "LineCurve",
+          "start": [
+            499.9999999999999,
+            0.0,
+            0.0
+          ],
+          "end": [
+            419.14999999999986,
+            -140.0363077919437,
+            0.0
+          ],
+          "length": 161.7
+        },
+        "detail_keys": [
+          "curve_details"
+        ]
+      }
+    },
+    {
+      "id": "2fa6884d-0b9f-4388-938b-c6972899c39e",
+      "object_name": "(not named)",
+      "layer_name": "Default",
+      "render_material": {
+        "source": "from layer",
+        "index": -1
+      },
+      "groups": [
+        "Group01"
+      ],
+      "geometry": {
+        "raw_type": "LineCurve",
+        "type_flags": {
+          "is_curve": true,
+          "is_brep": false,
+          "is_surface": false,
+          "is_mesh": false
+        },
+        "bbox": {
+          "min": [
+            499.9999999999999,
+            0.0,
+            0.0
+          ],
+          "max": [
+            499.9999999999999,
+            0.0,
+            161.7
+          ]
+        },
+        "curve_details": {
+          "subtype": "LineCurve",
+          "start": [
+            499.9999999999999,
+            0.0,
+            0.0
+          ],
+          "end": [
+            499.9999999999999,
+            0.0,
+            161.7
+          ],
+          "length": 161.7
+        },
+        "detail_keys": [
+          "curve_details"
+        ]
+      }
+    },
+    {
+      "id": "fd7438cd-4061-4092-b2a0-7bea1cf191ee",
+      "object_name": "(not named)",
+      "layer_name": "Default",
+      "render_material": {
+        "source": "from layer",
+        "index": -1
+      },
+      "groups": "No group assigned",
+      "geometry": {
+        "raw_type": "DimAngular",
+        "type_flags": {
+          "is_curve": false,
+          "is_brep": false,
+          "is_surface": false,
+          "is_mesh": false
+        },
+        "bbox": {
+          "min": [
+            -170.1600796309583,
+            -68.11624907033716,
+            -46.47919168398894
+          ],
+          "max": [
+            0.0,
+            65.7300179746287,
+            48.1665500008928
+          ]
+        },
+        "detail_keys": []
+      }
+    },
+    {
+      "id": "5330f83f-7272-4482-9de3-88890232e6ac",
+      "object_name": "(not named)",
+      "layer_name": "Default",
+      "render_material": {
+        "source": "from layer",
+        "index": -1
+      },
+      "groups": "No group assigned",
+      "geometry": {
+        "raw_type": "DimAngular",
+        "type_flags": {
+          "is_curve": false,
+          "is_brep": false,
+          "is_surface": false,
+          "is_mesh": false
+        },
+        "bbox": {
+          "min": [
+            -126.68867552969758,
+            -1.0658141036401503e-14,
+            -156.54391218717757
+          ],
+          "max": [
+            1.4210854715202004e-14,
+            73.14374092034804,
+            0.0
+          ]
+        },
+        "detail_keys": []
+      }
+    },
+    {
+      "id": "d832ceff-1a87-4985-9882-fc380c3e5faf",
+      "object_name": "(not named)",
+      "layer_name": "Default",
+      "render_material": {
+        "source": "from layer",
+        "index": -1
+      },
+      "groups": "No group assigned",
+      "geometry": {
+        "raw_type": "DimAngular",
+        "type_flags": {
+          "is_curve": false,
+          "is_brep": false,
+          "is_surface": false,
+          "is_mesh": false
+        },
+        "bbox": {
+          "min": [
+            -134.20090922559422,
+            0.0,
+            -46.4791916839889
+          ],
+          "max": [
+            0.0,
+            77.48093106688935,
+            139.43477439784166
+          ]
+        },
+        "detail_keys": []
+      }
+    },
+    {
+      "id": "1e92bd8e-aba7-4231-a018-2a040c370d96",
+      "object_name": "(not named)",
+      "layer_name": "Default",
+      "render_material": {
+        "source": "from layer",
+        "index": -1
+      },
+      "groups": "No group assigned",
+      "geometry": {
+        "raw_type": "DimAngular",
+        "type_flags": {
+          "is_curve": false,
+          "is_brep": false,
+          "is_surface": false,
+          "is_mesh": false
+        },
+        "bbox": {
+          "min": [
+            -112.98838616506167,
+            0.0,
+            0.0
+          ],
+          "max": [
+            0.0,
+            130.4677503353995,
+            0.0
+          ]
+        },
+        "detail_keys": []
+      }
+    }
+  ]
+}

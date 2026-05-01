@@ -1,0 +1,2060 @@
+{
+  "file": "/Users/srikargamini/Downloads/3dm_file_parser/3dm_input_files_dir/0821_testmodel_downsave.3dm",
+  "summary": {
+    "layers": [
+      {
+        "index": 0,
+        "name": "3RD",
+        "id": "c2a79346-ac76-4527-b2f4-7f81c1644029",
+        "parent_id": "00000000-0000-0000-0000-000000000000",
+        "fullpath": "3RD",
+        "material_index": -1,
+        "render_material_index": -1,
+        "children": []
+      },
+      {
+        "index": 1,
+        "name": "2ND",
+        "id": "d49e435e-1d8e-43f1-ba4b-54c0ecd077c9",
+        "parent_id": "00000000-0000-0000-0000-000000000000",
+        "fullpath": "2ND",
+        "material_index": -1,
+        "render_material_index": -1,
+        "children": []
+      },
+      {
+        "index": 2,
+        "name": "1ST",
+        "id": "d85865fd-5c39-4c7b-a0da-1f2810ffedf0",
+        "parent_id": "00000000-0000-0000-0000-000000000000",
+        "fullpath": "1ST",
+        "material_index": -1,
+        "render_material_index": -1,
+        "children": []
+      }
+    ],
+    "groups": [],
+    "materials": []
+  },
+  "objects": [
+    {
+      "id": "9903ad1e-b081-482a-a5ea-f0b6257f2b37",
+      "object_name": "(not named)",
+      "layer_name": "3RD",
+      "render_material": {
+        "source": "from layer",
+        "index": -1
+      },
+      "groups": "No group assigned",
+      "geometry": {
+        "raw_type": "LineCurve",
+        "type_flags": {
+          "is_curve": true,
+          "is_brep": false,
+          "is_surface": false,
+          "is_mesh": false
+        },
+        "bbox": {
+          "min": [
+            14299.753407409833,
+            9037.865905486578,
+            134.85672956080845
+          ],
+          "max": [
+            14512.0910364099,
+            9294.181844548248,
+            198.0021627872945
+          ]
+        },
+        "curve_details": {
+          "subtype": "LineCurve",
+          "start": [
+            14299.753407409833,
+            9037.865905486578,
+            198.0021627872945
+          ],
+          "end": [
+            14512.0910364099,
+            9294.181844548248,
+            134.85672956080845
+          ],
+          "length": 338.7808658171179
+        },
+        "detail_keys": [
+          "curve_details"
+        ]
+      }
+    },
+    {
+      "id": "0002693c-025e-4c87-b30f-ede6f133b4b1",
+      "object_name": "(not named)",
+      "layer_name": "3RD",
+      "render_material": {
+        "source": "from layer",
+        "index": -1
+      },
+      "groups": "No group assigned",
+      "geometry": {
+        "raw_type": "LineCurve",
+        "type_flags": {
+          "is_curve": true,
+          "is_brep": false,
+          "is_surface": false,
+          "is_mesh": false
+        },
+        "bbox": {
+          "min": [
+            14409.650051597097,
+            9228.186285853313,
+            142.03818481000192
+          ],
+          "max": [
+            14517.51567469312,
+            9294.181844548244,
+            458.67650543325703
+          ]
+        },
+        "curve_details": {
+          "subtype": "LineCurve",
+          "start": [
+            14409.650051597097,
+            9228.186285853313,
+            458.67650543325703
+          ],
+          "end": [
+            14517.51567469312,
+            9294.181844548244,
+            142.03818481000192
+          ],
+          "length": 340.9548833797001
+        },
+        "detail_keys": [
+          "curve_details"
+        ]
+      }
+    },
+    {
+      "id": "f1bf6204-3bae-4670-8dd7-47092f7d4f80",
+      "object_name": "(not named)",
+      "layer_name": "3RD",
+      "render_material": {
+        "source": "from layer",
+        "index": -1
+      },
+      "groups": "No group assigned",
+      "geometry": {
+        "raw_type": "LineCurve",
+        "type_flags": {
+          "is_curve": true,
+          "is_brep": false,
+          "is_surface": false,
+          "is_mesh": false
+        },
+        "bbox": {
+          "min": [
+            14299.753407409833,
+            9037.865905486578,
+            198.0021627872945
+          ],
+          "max": [
+            14409.650051597097,
+            9228.186285853313,
+            458.67650543325703
+          ]
+        },
+        "curve_details": {
+          "subtype": "LineCurve",
+          "start": [
+            14299.753407409833,
+            9037.865905486578,
+            198.0021627872945
+          ],
+          "end": [
+            14409.650051597097,
+            9228.186285853313,
+            458.67650543325703
+          ],
+          "length": 340.9548833797006
+        },
+        "detail_keys": [
+          "curve_details"
+        ]
+      }
+    },
+    {
+      "id": "56b814d6-4fc1-4354-b678-3fb8cd6ca655",
+      "object_name": "(not named)",
+      "layer_name": "3RD",
+      "render_material": {
+        "source": "from layer",
+        "index": -1
+      },
+      "groups": "No group assigned",
+      "geometry": {
+        "raw_type": "LineCurve",
+        "type_flags": {
+          "is_curve": true,
+          "is_brep": false,
+          "is_surface": false,
+          "is_mesh": false
+        },
+        "bbox": {
+          "min": [
+            13913.242475397625,
+            9660.718189299518,
+            104.92968984226823
+          ],
+          "max": [
+            14015.971935531858,
+            9735.29859058662,
+            154.77403720942874
+          ]
+        },
+        "curve_details": {
+          "subtype": "LineCurve",
+          "start": [
+            14015.971935531858,
+            9735.29859058662,
+            154.77403720942874
+          ],
+          "end": [
+            13913.242475397625,
+            9660.718189299518,
+            104.92968984226823
+          ],
+          "length": 136.38195335188016
+        },
+        "detail_keys": [
+          "curve_details"
+        ]
+      }
+    },
+    {
+      "id": "fc3191c7-d73b-4405-b706-7d0ef79470c8",
+      "object_name": "(not named)",
+      "layer_name": "3RD",
+      "render_material": {
+        "source": "from layer",
+        "index": -1
+      },
+      "groups": "No group assigned",
+      "geometry": {
+        "raw_type": "LineCurve",
+        "type_flags": {
+          "is_curve": true,
+          "is_brep": false,
+          "is_surface": false,
+          "is_mesh": false
+        },
+        "bbox": {
+          "min": [
+            13918.572003181072,
+            9688.975939794256,
+            154.77403720942874
+          ],
+          "max": [
+            14015.971935531858,
+            9735.29859058662,
+            238.2456036359974
+          ]
+        },
+        "curve_details": {
+          "subtype": "LineCurve",
+          "start": [
+            13918.572003181072,
+            9688.975939794256,
+            238.2456036359974
+          ],
+          "end": [
+            14015.971935531858,
+            9735.29859058662,
+            154.77403720942874
+          ],
+          "length": 136.3819533518784
+        },
+        "detail_keys": [
+          "curve_details"
+        ]
+      }
+    },
+    {
+      "id": "005571a3-a117-41a3-9021-1be00879cb87",
+      "object_name": "(not named)",
+      "layer_name": "3RD",
+      "render_material": {
+        "source": "from layer",
+        "index": -1
+      },
+      "groups": "No group assigned",
+      "geometry": {
+        "raw_type": "LineCurve",
+        "type_flags": {
+          "is_curve": true,
+          "is_brep": false,
+          "is_surface": false,
+          "is_mesh": false
+        },
+        "bbox": {
+          "min": [
+            13913.242475397625,
+            9660.718189299518,
+            104.92968984226823
+          ],
+          "max": [
+            13918.572003181072,
+            9688.975939794256,
+            238.2456036359974
+          ]
+        },
+        "curve_details": {
+          "subtype": "LineCurve",
+          "start": [
+            13913.242475397625,
+            9660.718189299518,
+            104.92968984226823
+          ],
+          "end": [
+            13918.572003181072,
+            9688.975939794256,
+            238.2456036359974
+          ],
+          "length": 136.38195335188033
+        },
+        "detail_keys": [
+          "curve_details"
+        ]
+      }
+    },
+    {
+      "id": "1c13a48f-e115-409d-b7be-48e9edefbb74",
+      "object_name": "(not named)",
+      "layer_name": "3RD",
+      "render_material": {
+        "source": "from layer",
+        "index": -1
+      },
+      "groups": "No group assigned",
+      "geometry": {
+        "raw_type": "LineCurve",
+        "type_flags": {
+          "is_curve": true,
+          "is_brep": false,
+          "is_surface": false,
+          "is_mesh": false
+        },
+        "bbox": {
+          "min": [
+            13913.242475397625,
+            9415.686617608859,
+            104.92968984226823
+          ],
+          "max": [
+            14016.262349689452,
+            9660.718189299518,
+            160.9213796507821
+          ]
+        },
+        "curve_details": {
+          "subtype": "LineCurve",
+          "start": [
+            14016.262349689452,
+            9415.686617608859,
+            160.9213796507821
+          ],
+          "end": [
+            13913.242475397625,
+            9660.718189299518,
+            104.92968984226823
+          ],
+          "length": 271.6406356786688
+        },
+        "detail_keys": [
+          "curve_details"
+        ]
+      }
+    },
+    {
+      "id": "0550ffb2-734c-41c3-a678-652d72824609",
+      "object_name": "(not named)",
+      "layer_name": "3RD",
+      "render_material": {
+        "source": "from layer",
+        "index": -1
+      },
+      "groups": "No group assigned",
+      "geometry": {
+        "raw_type": "LineCurve",
+        "type_flags": {
+          "is_curve": true,
+          "is_brep": false,
+          "is_surface": false,
+          "is_mesh": false
+        },
+        "bbox": {
+          "min": [
+            13918.572003181072,
+            9514.778352886682,
+            238.2456036359974
+          ],
+          "max": [
+            14097.540917519838,
+            9688.975939794256,
+            320.3726452815032
+          ]
+        },
+        "curve_details": {
+          "subtype": "LineCurve",
+          "start": [
+            14097.540917519838,
+            9514.778352886682,
+            320.3726452815032
+          ],
+          "end": [
+            13918.572003181072,
+            9688.975939794256,
+            238.2456036359974
+          ],
+          "length": 262.9059195861915
+        },
+        "detail_keys": [
+          "curve_details"
+        ]
+      }
+    },
+    {
+      "id": "d53c5302-039d-4d28-a3f4-961bd200a3ab",
+      "object_name": "(not named)",
+      "layer_name": "3RD",
+      "render_material": {
+        "source": "from layer",
+        "index": -1
+      },
+      "groups": "No group assigned",
+      "geometry": {
+        "raw_type": "LineCurve",
+        "type_flags": {
+          "is_curve": true,
+          "is_brep": false,
+          "is_surface": false,
+          "is_mesh": false
+        },
+        "bbox": {
+          "min": [
+            14015.971935531858,
+            9542.566499436081,
+            132.77183605814608
+          ],
+          "max": [
+            14174.247103647569,
+            9735.29859058662,
+            154.77403720942874
+          ]
+        },
+        "curve_details": {
+          "subtype": "LineCurve",
+          "start": [
+            14174.247103647569,
+            9542.566499436081,
+            132.77183605814608
+          ],
+          "end": [
+            14015.971935531858,
+            9735.29859058662,
+            154.77403720942874
+          ],
+          "length": 250.36130822636727
+        },
+        "detail_keys": [
+          "curve_details"
+        ]
+      }
+    },
+    {
+      "id": "d22e52e9-25b7-42ec-a36f-a2554ed63b65",
+      "object_name": "(not named)",
+      "layer_name": "3RD",
+      "render_material": {
+        "source": "from layer",
+        "index": -1
+      },
+      "groups": "No group assigned",
+      "geometry": {
+        "raw_type": "LineCurve",
+        "type_flags": {
+          "is_curve": true,
+          "is_brep": false,
+          "is_surface": false,
+          "is_mesh": false
+        },
+        "bbox": {
+          "min": [
+            14358.908155088468,
+            9219.19582949051,
+            196.6865009025318
+          ],
+          "max": [
+            14409.412948414301,
+            9491.28679888223,
+            458.3366871446457
+          ]
+        },
+        "curve_details": {
+          "subtype": "LineCurve",
+          "start": [
+            14358.908155088468,
+            9491.28679888223,
+            196.6865009025318
+          ],
+          "end": [
+            14409.412948414301,
+            9219.19582949051,
+            458.3366871446457
+          ],
+          "length": 380.84780389801915
+        },
+        "detail_keys": [
+          "curve_details"
+        ]
+      }
+    },
+    {
+      "id": "b47545c1-5813-42c8-ac08-55596a61dec2",
+      "object_name": "(not named)",
+      "layer_name": "3RD",
+      "render_material": {
+        "source": "from layer",
+        "index": -1
+      },
+      "groups": "No group assigned",
+      "geometry": {
+        "raw_type": "LineCurve",
+        "type_flags": {
+          "is_curve": true,
+          "is_brep": false,
+          "is_surface": false,
+          "is_mesh": false
+        },
+        "bbox": {
+          "min": [
+            14147.40675948996,
+            9249.308593695045,
+            82.82720011977773
+          ],
+          "max": [
+            14364.027887344115,
+            9429.805518198327,
+            114.01367991407218
+          ]
+        },
+        "curve_details": {
+          "subtype": "LineCurve",
+          "start": [
+            14147.40675948996,
+            9249.308593695045,
+            82.82720011977773
+          ],
+          "end": [
+            14364.027887344115,
+            9429.805518198327,
+            114.01367991407218
+          ],
+          "length": 283.6837135083884
+        },
+        "detail_keys": [
+          "curve_details"
+        ]
+      }
+    },
+    {
+      "id": "924951fc-c42b-4515-a981-eccedbc28374",
+      "object_name": "(not named)",
+      "layer_name": "3RD",
+      "render_material": {
+        "source": "from layer",
+        "index": -1
+      },
+      "groups": "No group assigned",
+      "geometry": {
+        "raw_type": "LineCurve",
+        "type_flags": {
+          "is_curve": true,
+          "is_brep": false,
+          "is_surface": false,
+          "is_mesh": false
+        },
+        "bbox": {
+          "min": [
+            14174.247103647569,
+            9429.805518198327,
+            114.01367991407218
+          ],
+          "max": [
+            14364.027887344115,
+            9542.566499436081,
+            132.77183605814608
+          ]
+        },
+        "curve_details": {
+          "subtype": "LineCurve",
+          "start": [
+            14364.027887344115,
+            9429.805518198327,
+            114.01367991407218
+          ],
+          "end": [
+            14174.247103647569,
+            9542.566499436081,
+            132.77183605814608
+          ],
+          "length": 221.54830889018692
+        },
+        "detail_keys": [
+          "curve_details"
+        ]
+      }
+    },
+    {
+      "id": "9f90752c-28ed-4cb3-a93e-2d2d8520e926",
+      "object_name": "(not named)",
+      "layer_name": "3RD",
+      "render_material": {
+        "source": "from layer",
+        "index": -1
+      },
+      "groups": "No group assigned",
+      "geometry": {
+        "raw_type": "LineCurve",
+        "type_flags": {
+          "is_curve": true,
+          "is_brep": false,
+          "is_surface": false,
+          "is_mesh": false
+        },
+        "bbox": {
+          "min": [
+            14147.40675948996,
+            9249.308593695045,
+            82.82720011977773
+          ],
+          "max": [
+            14517.51567469312,
+            9294.181844548244,
+            142.03818481000192
+          ]
+        },
+        "curve_details": {
+          "subtype": "LineCurve",
+          "start": [
+            14517.51567469312,
+            9294.181844548244,
+            142.03818481000192
+          ],
+          "end": [
+            14147.40675948996,
+            9249.308593695045,
+            82.82720011977773
+          ],
+          "length": 377.4919316528235
+        },
+        "detail_keys": [
+          "curve_details"
+        ]
+      }
+    },
+    {
+      "id": "ecf494a6-219e-462a-bc29-5d5cd66171b9",
+      "object_name": "(not named)",
+      "layer_name": "3RD",
+      "render_material": {
+        "source": "from layer",
+        "index": -1
+      },
+      "groups": "No group assigned",
+      "geometry": {
+        "raw_type": "LineCurve",
+        "type_flags": {
+          "is_curve": true,
+          "is_brep": false,
+          "is_surface": false,
+          "is_mesh": false
+        },
+        "bbox": {
+          "min": [
+            14364.027887344115,
+            9294.181844548244,
+            114.01367991407218
+          ],
+          "max": [
+            14517.51567469312,
+            9429.805518198327,
+            142.03818481000192
+          ]
+        },
+        "curve_details": {
+          "subtype": "LineCurve",
+          "start": [
+            14364.027887344115,
+            9429.805518198327,
+            114.01367991407218
+          ],
+          "end": [
+            14517.51567469312,
+            9294.181844548244,
+            142.03818481000192
+          ],
+          "length": 206.73087479692026
+        },
+        "detail_keys": [
+          "curve_details"
+        ]
+      }
+    },
+    {
+      "id": "046cd5a7-4d42-4480-9b33-7f5ecc7e0f2b",
+      "object_name": "(not named)",
+      "layer_name": "3RD",
+      "render_material": {
+        "source": "from layer",
+        "index": -1
+      },
+      "groups": "No group assigned",
+      "geometry": {
+        "raw_type": "LineCurve",
+        "type_flags": {
+          "is_curve": true,
+          "is_brep": false,
+          "is_surface": false,
+          "is_mesh": false
+        },
+        "bbox": {
+          "min": [
+            14358.908155088468,
+            9429.805518198327,
+            114.01367991407218
+          ],
+          "max": [
+            14364.027887344115,
+            9491.28679888223,
+            196.6865009025318
+          ]
+        },
+        "curve_details": {
+          "subtype": "LineCurve",
+          "start": [
+            14358.908155088468,
+            9491.28679888223,
+            196.6865009025318
+          ],
+          "end": [
+            14364.027887344115,
+            9429.805518198327,
+            114.01367991407218
+          ],
+          "length": 103.15500406229619
+        },
+        "detail_keys": [
+          "curve_details"
+        ]
+      }
+    },
+    {
+      "id": "a1556a59-a0be-4344-8855-e6fff662306c",
+      "object_name": "(not named)",
+      "layer_name": "3RD",
+      "render_material": {
+        "source": "from layer",
+        "index": -1
+      },
+      "groups": "No group assigned",
+      "geometry": {
+        "raw_type": "LineCurve",
+        "type_flags": {
+          "is_curve": true,
+          "is_brep": false,
+          "is_surface": false,
+          "is_mesh": false
+        },
+        "bbox": {
+          "min": [
+            14246.737873320884,
+            9372.162628460357,
+            196.6865009025318
+          ],
+          "max": [
+            14358.908155088468,
+            9491.28679888223,
+            428.9272908830995
+          ]
+        },
+        "curve_details": {
+          "subtype": "LineCurve",
+          "start": [
+            14246.737873320884,
+            9372.162628460357,
+            428.9272908830995
+          ],
+          "end": [
+            14358.908155088468,
+            9491.28679888223,
+            196.6865009025318
+          ],
+          "length": 284.09245787475027
+        },
+        "detail_keys": [
+          "curve_details"
+        ]
+      }
+    },
+    {
+      "id": "2a5f92b7-19e9-47f9-83ea-01bdbacb6760",
+      "object_name": "(not named)",
+      "layer_name": "3RD",
+      "render_material": {
+        "source": "from layer",
+        "index": -1
+      },
+      "groups": "No group assigned",
+      "geometry": {
+        "raw_type": "LineCurve",
+        "type_flags": {
+          "is_curve": true,
+          "is_brep": false,
+          "is_surface": false,
+          "is_mesh": false
+        },
+        "bbox": {
+          "min": [
+            14246.737873320884,
+            9228.186285853313,
+            428.9272908830995
+          ],
+          "max": [
+            14409.650051597097,
+            9372.162628460357,
+            458.67650543325703
+          ]
+        },
+        "curve_details": {
+          "subtype": "LineCurve",
+          "start": [
+            14409.650051597097,
+            9228.186285853313,
+            458.67650543325703
+          ],
+          "end": [
+            14246.737873320884,
+            9372.162628460357,
+            428.9272908830995
+          ],
+          "length": 219.44152029083412
+        },
+        "detail_keys": [
+          "curve_details"
+        ]
+      }
+    },
+    {
+      "id": "6d402bda-392f-4cbd-ac42-56f00ed18c88",
+      "object_name": "(not named)",
+      "layer_name": "3RD",
+      "render_material": {
+        "source": "from layer",
+        "index": -1
+      },
+      "groups": "No group assigned",
+      "geometry": {
+        "raw_type": "LineCurve",
+        "type_flags": {
+          "is_curve": true,
+          "is_brep": false,
+          "is_surface": false,
+          "is_mesh": false
+        },
+        "bbox": {
+          "min": [
+            14097.540917519838,
+            9372.162628460357,
+            320.3726452815032
+          ],
+          "max": [
+            14246.737873320884,
+            9514.778352886682,
+            428.9272908830995
+          ]
+        },
+        "curve_details": {
+          "subtype": "LineCurve",
+          "start": [
+            14246.737873320884,
+            9372.162628460357,
+            428.9272908830995
+          ],
+          "end": [
+            14097.540917519838,
+            9514.778352886682,
+            320.3726452815032
+          ],
+          "length": 233.20181722197813
+        },
+        "detail_keys": [
+          "curve_details"
+        ]
+      }
+    },
+    {
+      "id": "12828ce1-9cb5-4638-ba63-55c152ff2b8e",
+      "object_name": "(not named)",
+      "layer_name": "3RD",
+      "render_material": {
+        "source": "from layer",
+        "index": -1
+      },
+      "groups": "No group assigned",
+      "geometry": {
+        "raw_type": "PolylineCurve",
+        "type_flags": {
+          "is_curve": true,
+          "is_brep": false,
+          "is_surface": false,
+          "is_mesh": false
+        },
+        "bbox": {
+          "min": [
+            14015.971935531858,
+            9507.716257545571,
+            154.77403720942874
+          ],
+          "max": [
+            14097.540917519838,
+            9735.29859058662,
+            320.3726452815032
+          ]
+        },
+        "curve_details": {
+          "subtype": "Open polyline",
+          "point_count": 3,
+          "points": [
+            [
+              14015.971935531858,
+              9735.29859058662,
+              154.77403720942874
+            ],
+            [
+              14097.540917519838,
+              9514.778352886682,
+              320.3726452815032
+            ],
+            [
+              14046.33042895789,
+              9507.716257545571,
+              272.543096150631
+            ]
+          ]
+        },
+        "detail_keys": [
+          "curve_details"
+        ]
+      }
+    },
+    {
+      "id": "767a2c3a-e57f-43ce-af27-19376d664a3c",
+      "object_name": "(not named)",
+      "layer_name": "3RD",
+      "render_material": {
+        "source": "from layer",
+        "index": -1
+      },
+      "groups": "No group assigned",
+      "geometry": {
+        "raw_type": "PolylineCurve",
+        "type_flags": {
+          "is_curve": true,
+          "is_brep": false,
+          "is_surface": false,
+          "is_mesh": false
+        },
+        "bbox": {
+          "min": [
+            14016.262349689452,
+            9192.605071166461,
+            160.9213796507821
+          ],
+          "max": [
+            14156.119602929726,
+            9507.716257545571,
+            415.02505143610387
+          ]
+        },
+        "curve_details": {
+          "subtype": "Open polyline",
+          "point_count": 5,
+          "points": [
+            [
+              14156.119602929726,
+              9325.590350626013,
+              415.02505143610387
+            ],
+            [
+              14124.694571658134,
+              9192.605071166461,
+              166.03045058567702
+            ],
+            [
+              14016.262349689452,
+              9415.686617608859,
+              160.9213796507821
+            ],
+            [
+              14046.33042895789,
+              9507.716257545571,
+              272.543096150631
+            ],
+            [
+              14124.694571658134,
+              9192.605071166461,
+              166.03045058567702
+            ]
+          ]
+        },
+        "detail_keys": [
+          "curve_details"
+        ]
+      }
+    },
+    {
+      "id": "f628c33d-44af-47a6-b509-35c0cb022b8e",
+      "object_name": "(not named)",
+      "layer_name": "3RD",
+      "render_material": {
+        "source": "from layer",
+        "index": -1
+      },
+      "groups": "No group assigned",
+      "geometry": {
+        "raw_type": "PolylineCurve",
+        "type_flags": {
+          "is_curve": true,
+          "is_brep": false,
+          "is_surface": false,
+          "is_mesh": false
+        },
+        "bbox": {
+          "min": [
+            14124.694571658134,
+            9037.865905486578,
+            86.98736264307267
+          ],
+          "max": [
+            14299.753407409833,
+            9372.162628460357,
+            428.9272908830995
+          ]
+        },
+        "curve_details": {
+          "subtype": "Open polyline",
+          "point_count": 5,
+          "points": [
+            [
+              14246.737873320884,
+              9372.162628460357,
+              428.9272908830995
+            ],
+            [
+              14156.119602929726,
+              9325.590350626013,
+              415.02505143610387
+            ],
+            [
+              14299.753407409833,
+              9037.865905486578,
+              198.0021627872945
+            ],
+            [
+              14124.694571658134,
+              9192.605071166461,
+              166.03045058567702
+            ],
+            [
+              14146.27115009837,
+              9246.473417568615,
+              86.98736264307267
+            ]
+          ]
+        },
+        "detail_keys": [
+          "curve_details"
+        ]
+      }
+    },
+    {
+      "id": "cfafa165-6001-48d8-84a4-6a0512630387",
+      "object_name": "(not named)",
+      "layer_name": "3RD",
+      "render_material": {
+        "source": "from layer",
+        "index": -1
+      },
+      "groups": "No group assigned",
+      "geometry": {
+        "raw_type": "Brep",
+        "type_flags": {
+          "is_curve": false,
+          "is_brep": true,
+          "is_surface": false,
+          "is_mesh": false
+        },
+        "bbox": {
+          "min": [
+            14290.825686279437,
+            9036.675925773308,
+            187.6865381559026
+          ],
+          "max": [
+            14367.835876218864,
+            9492.476778595501,
+            207.0021255339237
+          ]
+        },
+        "brep_details": {
+          "subtype": "open polysurface",
+          "faces": 1,
+          "edges": 3,
+          "vertices": 2
+        },
+        "detail_keys": [
+          "brep_details"
+        ]
+      }
+    },
+    {
+      "id": "1c67de21-2289-4215-8d75-4d91d561a516",
+      "object_name": "(not named)",
+      "layer_name": "3RD",
+      "render_material": {
+        "source": "from layer",
+        "index": -1
+      },
+      "groups": "No group assigned",
+      "geometry": {
+        "raw_type": "Brep",
+        "type_flags": {
+          "is_curve": false,
+          "is_brep": true,
+          "is_surface": false,
+          "is_mesh": false
+        },
+        "bbox": {
+          "min": [
+            13903.725836717149,
+            9506.77627125059,
+            95.94922592841087
+          ],
+          "max": [
+            14107.057556200314,
+            9668.720270935612,
+            329.35310919536073
+          ]
+        },
+        "brep_details": {
+          "subtype": "open polysurface",
+          "faces": 1,
+          "edges": 3,
+          "vertices": 2
+        },
+        "detail_keys": [
+          "brep_details"
+        ]
+      }
+    },
+    {
+      "id": "66f612df-4553-450e-a1c9-6920032b6f21",
+      "object_name": "(not named)",
+      "layer_name": "3RD",
+      "render_material": {
+        "source": "from layer",
+        "index": -1
+      },
+      "groups": "No group assigned",
+      "geometry": {
+        "raw_type": "Brep",
+        "type_flags": {
+          "is_curve": false,
+          "is_brep": true,
+          "is_surface": false,
+          "is_mesh": false
+        },
+        "bbox": {
+          "min": [
+            14006.97193924585,
+            9415.505370922614,
+            145.7755442359251
+          ],
+          "max": [
+            14025.26234597546,
+            9735.479837272867,
+            169.91987262428574
+          ]
+        },
+        "brep_details": {
+          "subtype": "open polysurface",
+          "faces": 1,
+          "edges": 3,
+          "vertices": 2
+        },
+        "detail_keys": [
+          "brep_details"
+        ]
+      }
+    },
+    {
+      "id": "a37d708f-3254-4682-ac04-39ef31d61ca0",
+      "object_name": "(not named)",
+      "layer_name": "3RD",
+      "render_material": {
+        "source": "from layer",
+        "index": -1
+      },
+      "groups": "No group assigned",
+      "geometry": {
+        "raw_type": "Brep",
+        "type_flags": {
+          "is_curve": false,
+          "is_brep": true,
+          "is_surface": false,
+          "is_mesh": false
+        },
+        "bbox": {
+          "min": [
+            13911.467280905823,
+            9533.249000585394,
+            124.29843485380219
+          ],
+          "max": [
+            14181.351825922819,
+            9698.293438644934,
+            246.71900484035112
+          ]
+        },
+        "brep_details": {
+          "subtype": "open polysurface",
+          "faces": 1,
+          "edges": 3,
+          "vertices": 2
+        },
+        "detail_keys": [
+          "brep_details"
+        ]
+      }
+    },
+    {
+      "id": "e2f5fa68-88eb-48b8-870e-d5254a760818",
+      "object_name": "(not named)",
+      "layer_name": "3RD",
+      "render_material": {
+        "source": "from layer",
+        "index": -1
+      },
+      "groups": "No group assigned",
+      "geometry": {
+        "raw_type": "Brep",
+        "type_flags": {
+          "is_curve": false,
+          "is_brep": true,
+          "is_surface": false,
+          "is_mesh": false
+        },
+        "bbox": {
+          "min": [
+            14033.108100308938,
+            9363.539750340684,
+            132.1696542624767
+          ],
+          "max": [
+            14255.573897607732,
+            9486.793174196664,
+            436.22994824281443
+          ]
+        },
+        "brep_details": {
+          "subtype": "open polysurface",
+          "faces": 1,
+          "edges": 3,
+          "vertices": 2
+        },
+        "detail_keys": [
+          "brep_details"
+        ]
+      }
+    },
+    {
+      "id": "aa2839b8-d20d-459a-ab4c-6c247e5ec879",
+      "object_name": "(not named)",
+      "layer_name": "3RD",
+      "render_material": {
+        "source": "from layer",
+        "index": -1
+      },
+      "groups": "No group assigned",
+      "geometry": {
+        "raw_type": "Brep",
+        "type_flags": {
+          "is_curve": false,
+          "is_brep": true,
+          "is_surface": false,
+          "is_mesh": false
+        },
+        "bbox": {
+          "min": [
+            14115.6981851831,
+            9191.848252510623,
+            157.0302434483526
+          ],
+          "max": [
+            14144.279813520327,
+            9566.338629080157,
+            195.8754614721769
+          ]
+        },
+        "brep_details": {
+          "subtype": "open polysurface",
+          "faces": 1,
+          "edges": 3,
+          "vertices": 2
+        },
+        "detail_keys": [
+          "brep_details"
+        ]
+      }
+    },
+    {
+      "id": "74613683-8c4a-4ef4-9cc6-7e34f3fc5b0b",
+      "object_name": "(not named)",
+      "layer_name": "3RD",
+      "render_material": {
+        "source": "from layer",
+        "index": -1
+      },
+      "groups": "No group assigned",
+      "geometry": {
+        "raw_type": "Brep",
+        "type_flags": {
+          "is_curve": false,
+          "is_brep": true,
+          "is_surface": false,
+          "is_mesh": false
+        },
+        "bbox": {
+          "min": [
+            14040.58593409701,
+            9421.014674391901,
+            105.09931049979099
+          ],
+          "max": [
+            14369.772382204997,
+            9516.507101352,
+            281.45746556491224
+          ]
+        },
+        "brep_details": {
+          "subtype": "open polysurface",
+          "faces": 1,
+          "edges": 3,
+          "vertices": 2
+        },
+        "detail_keys": [
+          "brep_details"
+        ]
+      }
+    },
+    {
+      "id": "f7594cbc-8575-49c4-94f2-4456b572efcc",
+      "object_name": "(not named)",
+      "layer_name": "3RD",
+      "render_material": {
+        "source": "from layer",
+        "index": -1
+      },
+      "groups": "No group assigned",
+      "geometry": {
+        "raw_type": "Brep",
+        "type_flags": {
+          "is_curve": false,
+          "is_brep": true,
+          "is_surface": false,
+          "is_mesh": false
+        },
+        "bbox": {
+          "min": [
+            14139.788724263446,
+            9219.19582949051,
+            77.33744569870653
+          ],
+          "max": [
+            14417.268086823613,
+            9258.299050057847,
+            464.1662598543283
+          ]
+        },
+        "brep_details": {
+          "subtype": "open polysurface",
+          "faces": 1,
+          "edges": 3,
+          "vertices": 2
+        },
+        "detail_keys": [
+          "brep_details"
+        ]
+      }
+    },
+    {
+      "id": "01b84a1c-fa0c-4eb6-9af8-1049ee98e3e2",
+      "object_name": "(not named)",
+      "layer_name": "3RD",
+      "render_material": {
+        "source": "from layer",
+        "index": -1
+      },
+      "groups": "No group assigned",
+      "geometry": {
+        "raw_type": "Brep",
+        "type_flags": {
+          "is_curve": false,
+          "is_brep": true,
+          "is_surface": false,
+          "is_mesh": false
+        },
+        "bbox": {
+          "min": [
+            14150.198138468297,
+            9285.203407942381,
+            134.48144318598375
+          ],
+          "max": [
+            14523.437139154552,
+            9334.568787231876,
+            422.5817930601221
+          ]
+        },
+        "brep_details": {
+          "subtype": "open polysurface",
+          "faces": 1,
+          "edges": 3,
+          "vertices": 2
+        },
+        "detail_keys": [
+          "brep_details"
+        ]
+      }
+    },
+    {
+      "id": "48357c66-60fd-48b3-9d49-326ee07e2f6c",
+      "object_name": "(not named)",
+      "layer_name": "3RD",
+      "render_material": {
+        "source": "from layer",
+        "index": -1
+      },
+      "groups": "No group assigned",
+      "geometry": {
+        "raw_type": "PolylineCurve",
+        "type_flags": {
+          "is_curve": true,
+          "is_brep": false,
+          "is_surface": false,
+          "is_mesh": false
+        },
+        "bbox": {
+          "min": [
+            13913.242475397625,
+            9514.778352886682,
+            104.92968984226823
+          ],
+          "max": [
+            14174.247103647569,
+            9660.718189299518,
+            320.3726452815032
+          ]
+        },
+        "curve_details": {
+          "subtype": "Closed polyline",
+          "point_count": 32,
+          "points": [
+            [
+              14170.350735987342,
+              9544.868030534899,
+              138.18217788582567
+            ],
+            [
+              14174.247103647569,
+              9542.566499436074,
+              132.77183605815594
+            ],
+            [
+              14148.146640822575,
+              9554.381668422418,
+              129.98762143656722
+            ],
+            [
+              14122.04617799758,
+              9566.196837408763,
+              127.20340681497844
+            ],
+            [
+              14095.945715172587,
+              9578.012006395107,
+              124.41919219338965
+            ],
+            [
+              14069.845252347592,
+              9589.827175381452,
+              121.63497757180086
+            ],
+            [
+              14043.744789522596,
+              9601.642344367796,
+              118.85076295021213
+            ],
+            [
+              14017.644326697604,
+              9613.45751335414,
+              116.06654832862334
+            ],
+            [
+              13991.543863872608,
+              9625.272682340485,
+              113.28233370703454
+            ],
+            [
+              13965.443401047612,
+              9637.087851326829,
+              110.49811908544582
+            ],
+            [
+              13939.34293822262,
+              9648.903020313173,
+              107.71390446385703
+            ],
+            [
+              13913.242475397625,
+              9660.718189299518,
+              104.92968984226823
+            ],
+            [
+              14097.540917519838,
+              9514.778352886682,
+              320.3726452815032
+            ],
+            [
+              14101.315168472385,
+              9519.858698640446,
+              307.0229061868382
+            ],
+            [
+              14105.08941942493,
+              9524.93904439421,
+              293.6731670921732
+            ],
+            [
+              14108.863670377476,
+              9530.019390147972,
+              280.3234279975079
+            ],
+            [
+              14112.637921330022,
+              9535.099735901736,
+              266.973688902843
+            ],
+            [
+              14116.412172282566,
+              9540.1800816555,
+              253.62394980817785
+            ],
+            [
+              14120.186423235113,
+              9545.260427409265,
+              240.27421071351276
+            ],
+            [
+              14123.96067418766,
+              9550.340773163027,
+              226.92447161884772
+            ],
+            [
+              14127.734925140205,
+              9555.42111891679,
+              213.5747325241827
+            ],
+            [
+              14131.50917609275,
+              9560.501464670555,
+              200.22499342951753
+            ],
+            [
+              14135.283427045297,
+              9565.581810424319,
+              186.87525433485249
+            ],
+            [
+              14139.179794705524,
+              9563.280279325492,
+              181.46491250718285
+            ],
+            [
+              14143.07616236575,
+              9560.97874822667,
+              176.0545706795132
+            ],
+            [
+              14146.972530025978,
+              9558.677217127844,
+              170.6442288518435
+            ],
+            [
+              14150.868897686205,
+              9556.37568602902,
+              165.23388702417387
+            ],
+            [
+              14154.765265346432,
+              9554.074154930195,
+              159.82354519650423
+            ],
+            [
+              14158.661633006659,
+              9551.772623831372,
+              154.4132033688346
+            ],
+            [
+              14162.558000666888,
+              9549.471092732547,
+              149.00286154116495
+            ],
+            [
+              14166.454368327115,
+              9547.169561633722,
+              143.59251971349522
+            ],
+            [
+              14170.350735987342,
+              9544.868030534899,
+              138.18217788582567
+            ]
+          ]
+        },
+        "detail_keys": [
+          "curve_details"
+        ]
+      }
+    },
+    {
+      "id": "16deaa2b-56bc-4c0a-a143-1f83ceccdea5",
+      "object_name": "(not named)",
+      "layer_name": "3RD",
+      "render_material": {
+        "source": "from layer",
+        "index": -1
+      },
+      "groups": "No group assigned",
+      "geometry": {
+        "raw_type": "PolylineCurve",
+        "type_flags": {
+          "is_curve": true,
+          "is_brep": false,
+          "is_surface": false,
+          "is_mesh": false
+        },
+        "bbox": {
+          "min": [
+            13918.572003181072,
+            9415.686617608859,
+            132.77183605815594
+          ],
+          "max": [
+            14174.247103647569,
+            9688.975939794256,
+            238.2456036359974
+          ]
+        },
+        "curve_details": {
+          "subtype": "Closed polyline",
+          "point_count": 32,
+          "points": [
+            [
+              14018.830527180087,
+              9421.934985455671,
+              158.77647284792297
+            ],
+            [
+              14016.262349689452,
+              9415.686617608859,
+              160.9213796507821
+            ],
+            [
+              14006.493315038615,
+              9443.015549827398,
+              168.65380204930358
+            ],
+            [
+              13996.724280387776,
+              9470.344482045939,
+              176.38622444782519
+            ],
+            [
+              13986.95524573694,
+              9497.673414264478,
+              184.11864684634668
+            ],
+            [
+              13977.1862110861,
+              9525.002346483017,
+              191.8510692448682
+            ],
+            [
+              13967.417176435263,
+              9552.331278701557,
+              199.58349164338975
+            ],
+            [
+              13957.648141784424,
+              9579.660210920098,
+              207.3159140419113
+            ],
+            [
+              13947.879107133585,
+              9606.989143138637,
+              215.0483364404328
+            ],
+            [
+              13938.110072482748,
+              9634.318075357176,
+              222.7807588389544
+            ],
+            [
+              13928.34103783191,
+              9661.647007575717,
+              230.51318123747595
+            ],
+            [
+              13918.572003181072,
+              9688.975939794256,
+              238.2456036359974
+            ],
+            [
+              14174.247103647569,
+              9542.566499436074,
+              132.77183605815594
+            ],
+            [
+              14161.01680574239,
+              9536.126879100166,
+              133.44188361455957
+            ],
+            [
+              14147.786507837212,
+              9529.687258764257,
+              134.11193117096306
+            ],
+            [
+              14134.556209932034,
+              9523.247638428347,
+              134.7819787273666
+            ],
+            [
+              14121.325912026856,
+              9516.808018092439,
+              135.45202628377015
+            ],
+            [
+              14108.095614121677,
+              9510.36839775653,
+              136.1220738401737
+            ],
+            [
+              14094.8653162165,
+              9503.928777420622,
+              136.79212139657724
+            ],
+            [
+              14081.63501831132,
+              9497.489157084714,
+              137.4621689529808
+            ],
+            [
+              14068.404720406143,
+              9491.049536748806,
+              138.13221650938434
+            ],
+            [
+              14055.174422500964,
+              9484.609916412897,
+              138.80226406578794
+            ],
+            [
+              14041.944124595786,
+              9478.170296076989,
+              139.47231162219143
+            ],
+            [
+              14039.375947105153,
+              9471.921928230176,
+              141.61721842505054
+            ],
+            [
+              14036.807769614521,
+              9465.673560383362,
+              143.7621252279096
+            ],
+            [
+              14034.239592123886,
+              9459.42519253655,
+              145.9070320307686
+            ],
+            [
+              14031.671414633252,
+              9453.176824689737,
+              148.0519388336277
+            ],
+            [
+              14029.10323714262,
+              9446.928456842923,
+              150.19684563648676
+            ],
+            [
+              14026.535059651986,
+              9440.68008899611,
+              152.3417524393458
+            ],
+            [
+              14023.966882161352,
+              9434.431721149298,
+              154.48665924220487
+            ],
+            [
+              14021.39870467072,
+              9428.183353302484,
+              156.63156604506398
+            ],
+            [
+              14018.830527180087,
+              9421.934985455671,
+              158.77647284792297
+            ]
+          ]
+        },
+        "detail_keys": [
+          "curve_details"
+        ]
+      }
+    },
+    {
+      "id": "26f62f24-8841-4808-9eb5-a509992ece75",
+      "object_name": "(not named)",
+      "layer_name": "3RD",
+      "render_material": {
+        "source": "from layer",
+        "index": -1
+      },
+      "groups": "No group assigned",
+      "geometry": {
+        "raw_type": "PolylineCurve",
+        "type_flags": {
+          "is_curve": true,
+          "is_brep": false,
+          "is_surface": false,
+          "is_mesh": false
+        },
+        "bbox": {
+          "min": [
+            14041.944124595786,
+            9192.605071166461,
+            114.01367991407218
+          ],
+          "max": [
+            14364.027887344115,
+            9565.581810424319,
+            428.9272908830995
+          ]
+        },
+        "curve_details": {
+          "subtype": "Closed polyline",
+          "point_count": 34,
+          "points": [
+            [
+              14116.85815738811,
+              9224.116189804372,
+              176.68171514217244
+            ],
+            [
+              14124.694571658134,
+              9192.605071166461,
+              166.03045058567702
+            ],
+            [
+              14135.283427045297,
+              9565.581810424319,
+              186.87525433485249
+            ],
+            [
+              14146.428871672855,
+              9546.239892227923,
+              211.08045798967717
+            ],
+            [
+              14157.574316300414,
+              9526.897974031526,
+              235.28566164450194
+            ],
+            [
+              14168.719760927972,
+              9507.55605583513,
+              259.4908652993266
+            ],
+            [
+              14179.86520555553,
+              9488.214137638734,
+              283.69606895415126
+            ],
+            [
+              14191.010650183089,
+              9468.872219442337,
+              307.901272608976
+            ],
+            [
+              14202.15609481065,
+              9449.530301245943,
+              332.10647626380074
+            ],
+            [
+              14213.30153943821,
+              9430.188383049546,
+              356.31167991862543
+            ],
+            [
+              14224.446984065768,
+              9410.84646485315,
+              380.5168835734501
+            ],
+            [
+              14235.592428693326,
+              9391.504546656755,
+              404.7220872282748
+            ],
+            [
+              14246.737873320884,
+              9372.162628460357,
+              428.9272908830995
+            ],
+            [
+              14041.944124595786,
+              9478.170296076989,
+              139.47231162219143
+            ],
+            [
+              14074.152500870618,
+              9473.333818289122,
+              136.92644845137954
+            ],
+            [
+              14106.360877145451,
+              9468.497340501255,
+              134.38058528056763
+            ],
+            [
+              14138.569253420283,
+              9463.66086271339,
+              131.8347221097556
+            ],
+            [
+              14170.777629695118,
+              9458.824384925525,
+              129.2888589389437
+            ],
+            [
+              14202.98600596995,
+              9453.987907137658,
+              126.7429957681318
+            ],
+            [
+              14235.194382244783,
+              9449.151429349791,
+              124.19713259731991
+            ],
+            [
+              14267.402758519615,
+              9444.314951561926,
+              121.65126942650794
+            ],
+            [
+              14299.611134794448,
+              9439.478473774061,
+              119.10540625569605
+            ],
+            [
+              14331.81951106928,
+              9434.641995986194,
+              116.55954308488408
+            ],
+            [
+              14364.027887344115,
+              9429.805518198327,
+              114.01367991407218
+            ],
+            [
+              14046.33042895789,
+              9507.716257545571,
+              272.543096150631
+            ],
+            [
+              14054.166843227915,
+              9476.20513890766,
+              261.8918315941356
+            ],
+            [
+              14062.003257497938,
+              9444.69402026975,
+              251.24056703764026
+            ],
+            [
+              14069.839671767962,
+              9413.182901631839,
+              240.58930248114478
+            ],
+            [
+              14077.676086037987,
+              9381.671782993926,
+              229.93803792464945
+            ],
+            [
+              14085.512500308012,
+              9350.160664356015,
+              219.28677336815403
+            ],
+            [
+              14093.348914578035,
+              9318.649545718106,
+              208.63550881165867
+            ],
+            [
+              14101.18532884806,
+              9287.138427080194,
+              197.9842442551632
+            ],
+            [
+              14109.021743118084,
+              9255.627308442283,
+              187.33297969866777
+            ],
+            [
+              14116.85815738811,
+              9224.116189804372,
+              176.68171514217244
+            ]
+          ]
+        },
+        "detail_keys": [
+          "curve_details"
+        ]
+      }
+    }
+  ]
+}
