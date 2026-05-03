@@ -1,0 +1,1879 @@
+{
+  "meshes": [
+    {
+      "mesh": "mesh",
+      "ID": {
+        "value": "d3f58eb4-2203-5834-a0f0-de1af9101de5",
+        "index": 2
+      },
+      "Object name": "Mesh1 Location_Terrain Model",
+      "Layer name": "Layer 01",
+      "Render Material": {
+        "source": "from object",
+        "index": -1,
+        "name": "Location_Snapshot"
+      },
+      "Geometry": {
+        "Valid mesh.": true,
+        "Open double precision polygon mesh": {
+          "vertices": 2856,
+          "faces": 5304,
+          "n_gons": 0,
+          "Bounding box": {
+            "min": [
+              -1024.7,
+              -109.309,
+              -1018.61
+            ],
+            "max": [
+              1024.46,
+              59.1486,
+              1018.61
+            ]
+          }
+        }
+      }
+    },
+    {
+      "mesh": "mesh",
+      "ID": {
+        "value": "024af869-0a34-5fb4-aa8c-40a0b920bd47",
+        "index": 3
+      },
+      "Object name": "Mesh2 Location_Terrain_1 Model",
+      "Layer name": "Layer 01",
+      "Render Material": {
+        "source": "from object",
+        "index": -1,
+        "name": "Location_Snapshot_1"
+      },
+      "Geometry": {
+        "Valid mesh.": true,
+        "Open double precision polygon mesh": {
+          "vertices": 2856,
+          "faces": 5304,
+          "n_gons": 0,
+          "Bounding box": {
+            "min": [
+              -1071.03,
+              -45.8333,
+              953.81
+            ],
+            "max": [
+              978.592,
+              178.783,
+              2991.49
+            ]
+          }
+        }
+      }
+    },
+    {
+      "mesh": "mesh",
+      "ID": {
+        "value": "b07cf3e4-641a-556f-8726-1b0c249865bf",
+        "index": 4
+      },
+      "Object name": "Mesh3 Location_Terrain_2 Model",
+      "Layer name": "Layer 01",
+      "Render Material": {
+        "source": "from object",
+        "index": -1,
+        "name": "Location_Snapshot_2"
+      },
+      "Geometry": {
+        "Valid mesh.": true,
+        "Open double precision polygon mesh": {
+          "vertices": 2854,
+          "faces": 5302,
+          "n_gons": 0,
+          "Bounding box": {
+            "min": [
+              945.64,
+              -92.6946,
+              -1002.02
+            ],
+            "max": [
+              2994.31,
+              124.817,
+              1034.7
+            ]
+          }
+        }
+      }
+    },
+    {
+      "mesh": "mesh",
+      "ID": {
+        "value": "b2cb3c0c-56bc-55b9-ad24-378a16e90c55",
+        "index": 5
+      },
+      "Object name": "Mesh4 Location_Terrain_3 Model",
+      "Layer name": "Layer 01",
+      "Render Material": {
+        "source": "from object",
+        "index": -1,
+        "name": "Location_Snapshot_3"
+      },
+      "Geometry": {
+        "Valid mesh.": true,
+        "Open double precision polygon mesh": {
+          "vertices": 2854,
+          "faces": 5302,
+          "n_gons": 0,
+          "Bounding box": {
+            "min": [
+              889.534,
+              -38.3927,
+              952.84
+            ],
+            "max": [
+              2938.67,
+              360.914,
+              2990.03
+            ]
+          }
+        }
+      }
+    },
+    {
+      "mesh": "mesh",
+      "ID": {
+        "value": "f53b5117-7019-5e8b-8e00-1559ecfefdee",
+        "index": 6
+      },
+      "Object name": "Mesh5 Location_Terrain_4 Model",
+      "Layer name": "Layer 01",
+      "Render Material": {
+        "source": "from object",
+        "index": -1,
+        "name": "Location_Snapshot_4"
+      },
+      "Geometry": {
+        "Valid mesh.": true,
+        "Open double precision polygon mesh": {
+          "vertices": 2854,
+          "faces": 5302,
+          "n_gons": 0,
+          "Bounding box": {
+            "min": [
+              -969.269,
+              -163.824,
+              -2988.94
+            ],
+            "max": [
+              1079.41,
+              -59.0817,
+              -952.193
+            ]
+          }
+        }
+      }
+    },
+    {
+      "mesh": "mesh",
+      "ID": {
+        "value": "3ca9284f-fd85-53db-ba0c-c7adc8bd9dfd",
+        "index": 7
+      },
+      "Object name": "Mesh6 Location_Terrain_5 Model",
+      "Layer name": "Layer 01",
+      "Render Material": {
+        "source": "from object",
+        "index": -1,
+        "name": "Location_Snapshot_5"
+      },
+      "Geometry": {
+        "Valid mesh.": true,
+        "Open double precision polygon mesh": {
+          "vertices": 2908,
+          "faces": 5406,
+          "n_gons": 0,
+          "Bounding box": {
+            "min": [
+              906.671,
+              -130.255,
+              -2910.29
+            ],
+            "max": [
+              2954.9,
+              106.749,
+              -873.99
+            ]
+          }
+        }
+      }
+    },
+    {
+      "mesh": "mesh",
+      "ID": {
+        "value": "725633ec-f292-5a1a-bb3f-01cd92a118c8",
+        "index": 8
+      },
+      "Object name": "Mesh7 Location_Terrain_6 Model",
+      "Layer name": "Layer 01",
+      "Render Material": {
+        "source": "from object",
+        "index": -1,
+        "name": "Location_Snapshot_6"
+      },
+      "Geometry": {
+        "Valid mesh.": true,
+        "Open double precision polygon mesh": {
+          "vertices": 2906,
+          "faces": 5404,
+          "n_gons": 0,
+          "Bounding box": {
+            "min": [
+              2859.48,
+              -45.499,
+              -2911.82
+            ],
+            "max": [
+              4907.22,
+              434.548,
+              -876.014
+            ]
+          }
+        }
+      }
+    },
+    {
+      "mesh": "mesh",
+      "ID": {
+        "value": "dfcfde03-3c0a-5c0e-ac5f-0f71b5d6a6f7",
+        "index": 9
+      },
+      "Object name": "Mesh8 Location_Terrain_7 Model",
+      "Layer name": "Layer 01",
+      "Render Material": {
+        "source": "from object",
+        "index": -1,
+        "name": "Location_Snapshot_7"
+      },
+      "Geometry": {
+        "Valid mesh.": true,
+        "Open double precision polygon mesh": {
+          "vertices": 2906,
+          "faces": 5404,
+          "n_gons": 0,
+          "Bounding box": {
+            "min": [
+              2802.94,
+              23.3073,
+              -865.889
+            ],
+            "max": [
+              4851.17,
+              363.56,
+              1170.4
+            ]
+          }
+        }
+      }
+    },
+    {
+      "mesh": "mesh",
+      "ID": {
+        "value": "2848fe7e-27f6-521c-a30b-f6a0f7acf852",
+        "index": 10
+      },
+      "Object name": "Mesh9 Location_Terrain_8 Model",
+      "Layer name": "Layer 01",
+      "Render Material": {
+        "source": "from object",
+        "index": -1,
+        "name": "Location_Snapshot_8"
+      },
+      "Geometry": {
+        "Valid mesh.": true,
+        "Open double precision polygon mesh": {
+          "vertices": 2906,
+          "faces": 5404,
+          "n_gons": 0,
+          "Bounding box": {
+            "min": [
+              2894.32,
+              20.7544,
+              -1990.62
+            ],
+            "max": [
+              4942.27,
+              448.632,
+              45.3879
+            ]
+          }
+        }
+      }
+    },
+    {
+      "mesh": "mesh",
+      "ID": {
+        "value": "f375d149-4aee-509e-980d-85b9527c25fa",
+        "index": 11
+      },
+      "Object name": "Mesh10 Location_Terrain_9 Model",
+      "Layer name": "Layer 01",
+      "Render Material": {
+        "source": "from object",
+        "index": -1,
+        "name": "Location_Snapshot_9"
+      },
+      "Geometry": {
+        "Valid mesh.": true,
+        "Open double precision polygon mesh": {
+          "vertices": 2906,
+          "faces": 5404,
+          "n_gons": 0,
+          "Bounding box": {
+            "min": [
+              2815.01,
+              105.913,
+              1112.44
+            ],
+            "max": [
+              4863.7,
+              660.711,
+              3149.18
+            ]
+          }
+        }
+      }
+    },
+    {
+      "mesh": "mesh",
+      "ID": {
+        "value": "e253bcb0-6816-588b-a546-59b0c08becc7",
+        "index": 12
+      },
+      "Object name": "Mesh11 Marc1 Model",
+      "Layer name": "Layer 01",
+      "Render Material": {
+        "source": "from object",
+        "index": -1,
+        "name": "Marc_Shirt"
+      },
+      "Geometry": {
+        "Valid mesh.": true,
+        "Open double precision polygon mesh": {
+          "vertices": 6,
+          "faces": 4,
+          "n_gons": 0,
+          "Bounding box": {
+            "min": [
+              0.641528,
+              1.26537,
+              -0.343772
+            ],
+            "max": [
+              0.654899,
+              1.27049,
+              -0.342851
+            ]
+          }
+        }
+      }
+    },
+    {
+      "mesh": "mesh",
+      "ID": {
+        "value": "351de230-fb76-517c-84c8-7de805efc479",
+        "index": 13
+      },
+      "Object name": "Mesh11 Marc1 Model",
+      "Layer name": "Layer 01",
+      "Render Material": {
+        "source": "from object",
+        "index": -1,
+        "name": "Marc_Shirt2"
+      },
+      "Geometry": {
+        "Valid mesh.": true,
+        "Open double precision polygon mesh": {
+          "vertices": 272,
+          "faces": 1,
+          "n_gons": 1,
+          "Bounding box": {
+            "min": [
+              0.555223,
+              1.24851,
+              -0.34972
+            ],
+            "max": [
+              0.737563,
+              1.37249,
+              -0.337154
+            ]
+          }
+        }
+      }
+    },
+    {
+      "mesh": "mesh",
+      "ID": {
+        "value": "7d3eb8a7-2332-5eda-ac26-f27dc196991c",
+        "index": 14
+      },
+      "Object name": "Mesh11 Marc1 Model",
+      "Layer name": "Layer 01",
+      "Render Material": {
+        "source": "from object",
+        "index": -1,
+        "name": "Marc_Shirt"
+      },
+      "Geometry": {
+        "Valid mesh.": true,
+        "Open double precision polygon mesh": {
+          "vertices": 67,
+          "faces": 65,
+          "n_gons": 0,
+          "Bounding box": {
+            "min": [
+              0.39659,
+              0.986292,
+              -0.360652
+            ],
+            "max": [
+              0.752515,
+              1.35564,
+              -0.336123
+            ]
+          }
+        }
+      }
+    },
+    {
+      "mesh": "mesh",
+      "ID": {
+        "value": "72b0930f-fe64-5545-9675-ee324a225495",
+        "index": 15
+      },
+      "Object name": "Mesh11 Marc1 Model",
+      "Layer name": "Layer 01",
+      "Render Material": {
+        "source": "from object",
+        "index": -1,
+        "name": "Marc_Skin"
+      },
+      "Geometry": {
+        "Valid mesh.": true,
+        "Open double precision polygon mesh": {
+          "vertices": 73,
+          "faces": 2,
+          "n_gons": 2,
+          "Bounding box": {
+            "min": [
+              0.277348,
+              0.921015,
+              -0.36887
+            ],
+            "max": [
+              0.562306,
+              1.31971,
+              -0.349232
+            ]
+          }
+        }
+      }
+    },
+    {
+      "mesh": "mesh",
+      "ID": {
+        "value": "e55bb3bc-e2d9-506a-b967-4ac86ad3f509",
+        "index": 16
+      },
+      "Object name": "Mesh11 Marc1 Model",
+      "Layer name": "Layer 01",
+      "Render Material": {
+        "source": "from object",
+        "index": -1,
+        "name": "Marc_Pants"
+      },
+      "Geometry": {
+        "Valid mesh.": true,
+        "Open double precision polygon mesh": {
+          "vertices": 151,
+          "faces": 116,
+          "n_gons": 4,
+          "Bounding box": {
+            "min": [
+              0.386868,
+              0.0847656,
+              -0.361322
+            ],
+            "max": [
+              0.77686,
+              0.960636,
+              -0.334446
+            ]
+          }
+        }
+      }
+    },
+    {
+      "mesh": "mesh",
+      "ID": {
+        "value": "1737febf-a8e2-50c1-b7a1-9a45d1990ee0",
+        "index": 17
+      },
+      "Object name": "Mesh11 Marc1 Model",
+      "Layer name": "Layer 01",
+      "Render Material": {
+        "source": "from object",
+        "index": -1,
+        "name": "Marc_Shoes"
+      },
+      "Geometry": {
+        "Valid mesh.": true,
+        "Open double precision polygon mesh": {
+          "vertices": 38,
+          "faces": 1,
+          "n_gons": 1,
+          "Bounding box": {
+            "min": [
+              0.377422,
+              0.0186213,
+              -0.361973
+            ],
+            "max": [
+              0.509987,
+              0.106233,
+              -0.352837
+            ]
+          }
+        }
+      }
+    },
+    {
+      "mesh": "mesh",
+      "ID": {
+        "value": "8ff1e453-d55d-5206-989c-0e6c718d1d30",
+        "index": 18
+      },
+      "Object name": "Mesh11 Marc1 Model",
+      "Layer name": "Layer 01",
+      "Render Material": {
+        "source": "from object",
+        "index": -1,
+        "name": "FrontColor"
+      },
+      "Geometry": {
+        "Valid mesh.": true,
+        "Open double precision polygon mesh": {
+          "vertices": 9,
+          "faces": 1,
+          "n_gons": 1,
+          "Bounding box": {
+            "min": [
+              0.373635,
+              0.00887865,
+              -0.362234
+            ],
+            "max": [
+              0.396538,
+              0.0357629,
+              -0.360656
+            ]
+          }
+        }
+      }
+    },
+    {
+      "mesh": "mesh",
+      "ID": {
+        "value": "fceff839-adf6-5650-a19d-37cffbc4f0e8",
+        "index": 19
+      },
+      "Object name": "Mesh11 Marc1 Model",
+      "Layer name": "Layer 01",
+      "Render Material": {
+        "source": "from object",
+        "index": -1,
+        "name": "Marc_Shoes2"
+      },
+      "Geometry": {
+        "Valid mesh.": true,
+        "Open double precision polygon mesh": {
+          "vertices": 27,
+          "faces": 1,
+          "n_gons": 1,
+          "Bounding box": {
+            "min": [
+              0.373865,
+              -0.00103107,
+              -0.362218
+            ],
+            "max": [
+              0.486637,
+              0.0373891,
+              -0.354447
+            ]
+          }
+        }
+      }
+    },
+    {
+      "mesh": "mesh",
+      "ID": {
+        "value": "6a91120c-4845-5870-b3ad-8419c41a511e",
+        "index": 20
+      },
+      "Object name": "Mesh11 Marc1 Model",
+      "Layer name": "Layer 01",
+      "Render Material": {
+        "source": "from object",
+        "index": -1,
+        "name": "FrontColor"
+      },
+      "Geometry": {
+        "Valid mesh.": true,
+        "Open double precision polygon mesh": {
+          "vertices": 13,
+          "faces": 1,
+          "n_gons": 1,
+          "Bounding box": {
+            "min": [
+              0.44702,
+              0.00699616,
+              -0.357177
+            ],
+            "max": [
+              0.486637,
+              0.0270125,
+              -0.354447
+            ]
+          }
+        }
+      }
+    },
+    {
+      "mesh": "mesh",
+      "ID": {
+        "value": "96f978aa-4b2e-5a7e-97d5-fc8e550d6ae2",
+        "index": 21
+      },
+      "Object name": "Mesh11 Marc1 Model",
+      "Layer name": "Layer 01",
+      "Render Material": {
+        "source": "from object",
+        "index": -1,
+        "name": "Marc_Shoes3"
+      },
+      "Geometry": {
+        "Valid mesh.": true,
+        "Open double precision polygon mesh": {
+          "vertices": 16,
+          "faces": 1,
+          "n_gons": 1,
+          "Bounding box": {
+            "min": [
+              0.482247,
+              0.0147606,
+              -0.354749
+            ],
+            "max": [
+              0.512262,
+              0.0523588,
+              -0.352681
+            ]
+          }
+        }
+      }
+    },
+    {
+      "mesh": "mesh",
+      "ID": {
+        "value": "6c465cd8-25d3-5833-aa16-ab69664536b1",
+        "index": 22
+      },
+      "Object name": "Mesh11 Marc1 Model",
+      "Layer name": "Layer 01",
+      "Render Material": {
+        "source": "from object",
+        "index": -1,
+        "name": "Marc_Pants"
+      },
+      "Geometry": {
+        "Valid mesh.": true,
+        "Open double precision polygon mesh": {
+          "vertices": 96,
+          "faces": 76,
+          "n_gons": 1,
+          "Bounding box": {
+            "min": [
+              0.399806,
+              0.102704,
+              -0.360431
+            ],
+            "max": [
+              0.785949,
+              0.831464,
+              -0.333819
+            ]
+          }
+        }
+      }
+    },
+    {
+      "mesh": "mesh",
+      "ID": {
+        "value": "d826b699-9f98-521d-b7f4-061961ec03e2",
+        "index": 23
+      },
+      "Object name": "Mesh11 Marc1 Model",
+      "Layer name": "Layer 01",
+      "Render Material": {
+        "source": "from object",
+        "index": -1,
+        "name": "Marc_Shoes"
+      },
+      "Geometry": {
+        "Valid mesh.": true,
+        "Open double precision polygon mesh": {
+          "vertices": 36,
+          "faces": 1,
+          "n_gons": 1,
+          "Bounding box": {
+            "min": [
+              0.617375,
+              0.0218315,
+              -0.345437
+            ],
+            "max": [
+              0.817817,
+              0.105808,
+              -0.331623
+            ]
+          }
+        }
+      }
+    },
+    {
+      "mesh": "mesh",
+      "ID": {
+        "value": "428acf86-50b3-5784-b823-ee620e5a91dd",
+        "index": 24
+      },
+      "Object name": "Mesh11 Marc1 Model",
+      "Layer name": "Layer 01",
+      "Render Material": {
+        "source": "from object",
+        "index": -1,
+        "name": "Marc_Pants"
+      },
+      "Geometry": {
+        "Valid mesh.": true,
+        "Open double precision polygon mesh": {
+          "vertices": 7,
+          "faces": 5,
+          "n_gons": 0,
+          "Bounding box": {
+            "min": [
+              0.618214,
+              0.0869663,
+              -0.345379
+            ],
+            "max": [
+              0.730856,
+              0.111622,
+              -0.337616
+            ]
+          }
+        }
+      }
+    },
+    {
+      "mesh": "mesh",
+      "ID": {
+        "value": "17747cd3-09fc-5445-b32e-6d5e77ce28a6",
+        "index": 25
+      },
+      "Object name": "Mesh11 Marc1 Model",
+      "Layer name": "Layer 01",
+      "Render Material": {
+        "source": "from object",
+        "index": -1,
+        "name": "Marc_Shoes3"
+      },
+      "Geometry": {
+        "Valid mesh.": true,
+        "Open double precision polygon mesh": {
+          "vertices": 22,
+          "faces": 1,
+          "n_gons": 1,
+          "Bounding box": {
+            "min": [
+              0.609292,
+              0.0152602,
+              -0.345994
+            ],
+            "max": [
+              0.697929,
+              0.0627106,
+              -0.339885
+            ]
+          }
+        }
+      }
+    },
+    {
+      "mesh": "mesh",
+      "ID": {
+        "value": "113c0fbe-2cb2-5c9d-95a4-4c0b51ff57de",
+        "index": 26
+      },
+      "Object name": "Mesh11 Marc1 Model",
+      "Layer name": "Layer 01",
+      "Render Material": {
+        "source": "from object",
+        "index": -1,
+        "name": "FrontColor"
+      },
+      "Geometry": {
+        "Valid mesh.": true,
+        "Open double precision polygon mesh": {
+          "vertices": 20,
+          "faces": 1,
+          "n_gons": 1,
+          "Bounding box": {
+            "min": [
+              0.684793,
+              0.00922443,
+              -0.34079
+            ],
+            "max": [
+              0.782112,
+              0.0387197,
+              -0.334084
+            ]
+          }
+        }
+      }
+    },
+    {
+      "mesh": "mesh",
+      "ID": {
+        "value": "aaffce5e-fcea-5e27-b6d7-27743c6d8487",
+        "index": 27
+      },
+      "Object name": "Mesh11 Marc1 Model",
+      "Layer name": "Layer 01",
+      "Render Material": {
+        "source": "from object",
+        "index": -1,
+        "name": "Marc_Shoes2"
+      },
+      "Geometry": {
+        "Valid mesh.": true,
+        "Open double precision polygon mesh": {
+          "vertices": 35,
+          "faces": 1,
+          "n_gons": 1,
+          "Bounding box": {
+            "min": [
+              0.609292,
+              0.0035151,
+              -0.345994
+            ],
+            "max": [
+              0.824865,
+              0.0433765,
+              -0.331137
+            ]
+          }
+        }
+      }
+    },
+    {
+      "mesh": "mesh",
+      "ID": {
+        "value": "1cfa963c-0d46-584c-a238-a48e13d9d252",
+        "index": 28
+      },
+      "Object name": "Mesh11 Marc1 Model",
+      "Layer name": "Layer 01",
+      "Render Material": {
+        "source": "from object",
+        "index": -1,
+        "name": "Marc_Pants"
+      },
+      "Geometry": {
+        "Valid mesh.": true,
+        "Open double precision polygon mesh": {
+          "vertices": 79,
+          "faces": 64,
+          "n_gons": 4,
+          "Bounding box": {
+            "min": [
+              0.407734,
+              0.125765,
+              -0.359884
+            ],
+            "max": [
+              0.773008,
+              0.944048,
+              -0.334711
+            ]
+          }
+        }
+      }
+    },
+    {
+      "mesh": "mesh",
+      "ID": {
+        "value": "d34346f8-a2cc-532d-8d29-3bf88d767ed7",
+        "index": 29
+      },
+      "Object name": "Mesh11 Marc1 Model",
+      "Layer name": "Layer 01",
+      "Render Material": {
+        "source": "from object",
+        "index": -1,
+        "name": "Marc_Shirt"
+      },
+      "Geometry": {
+        "Valid mesh.": true,
+        "Open double precision polygon mesh": {
+          "vertices": 8,
+          "faces": 2,
+          "n_gons": 1,
+          "Bounding box": {
+            "min": [
+              0.396686,
+              0.918145,
+              -0.360646
+            ],
+            "max": [
+              0.420782,
+              0.949769,
+              -0.358985
+            ]
+          }
+        }
+      }
+    },
+    {
+      "mesh": "mesh",
+      "ID": {
+        "value": "a630aa13-ff51-52e0-a8c5-402ef36094e5",
+        "index": 30
+      },
+      "Object name": "Mesh11 Marc1 Model",
+      "Layer name": "Layer 01",
+      "Render Material": {
+        "source": "from object",
+        "index": -1,
+        "name": "Marc_Pants"
+      },
+      "Geometry": {
+        "Valid mesh.": true,
+        "Open double precision polygon mesh": {
+          "vertices": 4,
+          "faces": 2,
+          "n_gons": 0,
+          "Bounding box": {
+            "min": [
+              0.657502,
+              0.90823,
+              -0.342671
+            ],
+            "max": [
+              0.767039,
+              0.935461,
+              -0.335122
+            ]
+          }
+        }
+      }
+    },
+    {
+      "mesh": "mesh",
+      "ID": {
+        "value": "661d064b-6f73-5085-b034-1e36c4435083",
+        "index": 31
+      },
+      "Object name": "Mesh11 Marc1 Model",
+      "Layer name": "Layer 01",
+      "Render Material": {
+        "source": "from object",
+        "index": -1,
+        "name": "Marc_Skin"
+      },
+      "Geometry": {
+        "Valid mesh.": true,
+        "Open double precision polygon mesh": {
+          "vertices": 33,
+          "faces": 1,
+          "n_gons": 1,
+          "Bounding box": {
+            "min": [
+              0.667039,
+              0.932412,
+              -0.342014
+            ],
+            "max": [
+              0.793266,
+              1.00442,
+              -0.333315
+            ]
+          }
+        }
+      }
+    },
+    {
+      "mesh": "mesh",
+      "ID": {
+        "value": "c8ab8b5d-2199-5c19-9213-c7c9e7e51eb1",
+        "index": 32
+      },
+      "Object name": "Mesh11 Marc1 Model",
+      "Layer name": "Layer 01",
+      "Render Material": {
+        "source": "from object",
+        "index": -1,
+        "name": "Marc_Shirt"
+      },
+      "Geometry": {
+        "Valid mesh.": true,
+        "Open double precision polygon mesh": {
+          "vertices": 19,
+          "faces": 17,
+          "n_gons": 0,
+          "Bounding box": {
+            "min": [
+              0.470949,
+              0.959315,
+              -0.355528
+            ],
+            "max": [
+              0.702971,
+              0.987745,
+              -0.339538
+            ]
+          }
+        }
+      }
+    },
+    {
+      "mesh": "mesh",
+      "ID": {
+        "value": "c452e4fe-f803-5d1b-8e9f-036312a0752f",
+        "index": 33
+      },
+      "Object name": "Mesh11 Marc1 Model",
+      "Layer name": "Layer 01",
+      "Render Material": {
+        "source": "from object",
+        "index": -1,
+        "name": "Marc_Pants"
+      },
+      "Geometry": {
+        "Valid mesh.": true,
+        "Open double precision polygon mesh": {
+          "vertices": 6,
+          "faces": 4,
+          "n_gons": 0,
+          "Bounding box": {
+            "min": [
+              0.527183,
+              0.959315,
+              -0.351652
+            ],
+            "max": [
+              0.667039,
+              0.962583,
+              -0.342014
+            ]
+          }
+        }
+      }
+    },
+    {
+      "mesh": "mesh",
+      "ID": {
+        "value": "57cbb74e-38f0-500b-8410-a758f7b91def",
+        "index": 34
+      },
+      "Object name": "Mesh11 Marc1 Model",
+      "Layer name": "Layer 01",
+      "Render Material": {
+        "source": "from object",
+        "index": -1,
+        "name": "Marc_Skin"
+      },
+      "Geometry": {
+        "Valid mesh.": true,
+        "Open double precision polygon mesh": {
+          "vertices": 18,
+          "faces": 1,
+          "n_gons": 1,
+          "Bounding box": {
+            "min": [
+              0.646141,
+              0.926677,
+              -0.343454
+            ],
+            "max": [
+              0.711391,
+              0.960085,
+              -0.338957
+            ]
+          }
+        }
+      }
+    },
+    {
+      "mesh": "mesh",
+      "ID": {
+        "value": "7f76dd18-d2e0-5392-9c8a-fcfa7c86c305",
+        "index": 35
+      },
+      "Object name": "Mesh11 Marc1 Model",
+      "Layer name": "Layer 01",
+      "Render Material": {
+        "source": "from object",
+        "index": -1,
+        "name": "Marc_Pants"
+      },
+      "Geometry": {
+        "Valid mesh.": true,
+        "Open double precision polygon mesh": {
+          "vertices": 13,
+          "faces": 11,
+          "n_gons": 0,
+          "Bounding box": {
+            "min": [
+              0.657502,
+              0.926677,
+              -0.342671
+            ],
+            "max": [
+              0.759654,
+              0.95145,
+              -0.335631
+            ]
+          }
+        }
+      }
+    },
+    {
+      "mesh": "mesh",
+      "ID": {
+        "value": "23c23f17-25d5-5f7c-a058-531ff96c8c75",
+        "index": 36
+      },
+      "Object name": "Mesh11 Marc1 Model",
+      "Layer name": "Layer 01",
+      "Render Material": {
+        "source": "from object",
+        "index": -1,
+        "name": "Marc_Wrist"
+      },
+      "Geometry": {
+        "Valid mesh.": true,
+        "Open double precision polygon mesh": {
+          "vertices": 24,
+          "faces": 1,
+          "n_gons": 1,
+          "Bounding box": {
+            "min": [
+              0.751467,
+              0.9643,
+              -0.336195
+            ],
+            "max": [
+              0.795674,
+              1.00625,
+              -0.333149
+            ]
+          }
+        }
+      }
+    },
+    {
+      "mesh": "mesh",
+      "ID": {
+        "value": "776ae491-afc1-58c8-9963-67b69ea44e0e",
+        "index": 37
+      },
+      "Object name": "Mesh11 Marc1 Model",
+      "Layer name": "Layer 01",
+      "Render Material": {
+        "source": "from object",
+        "index": -1,
+        "name": "Marc_Skin"
+      },
+      "Geometry": {
+        "Valid mesh.": true,
+        "Open double precision polygon mesh": {
+          "vertices": 53,
+          "faces": 1,
+          "n_gons": 1,
+          "Bounding box": {
+            "min": [
+              0.746244,
+              0.969562,
+              -0.336555
+            ],
+            "max": [
+              0.844657,
+              1.31803,
+              -0.329773
+            ]
+          }
+        }
+      }
+    },
+    {
+      "mesh": "mesh",
+      "ID": {
+        "value": "4e6150a7-7af1-5868-a9c7-b744d77cc10b",
+        "index": 38
+      },
+      "Object name": "Mesh11 Marc1 Model",
+      "Layer name": "Layer 01",
+      "Render Material": {
+        "source": "from object",
+        "index": -1,
+        "name": "Marc_Shirt"
+      },
+      "Geometry": {
+        "Valid mesh.": true,
+        "Open double precision polygon mesh": {
+          "vertices": 73,
+          "faces": 65,
+          "n_gons": 1,
+          "Bounding box": {
+            "min": [
+              0.357142,
+              1.27813,
+              -0.363371
+            ],
+            "max": [
+              0.836845,
+              1.54761,
+              -0.330312
+            ]
+          }
+        }
+      }
+    },
+    {
+      "mesh": "mesh",
+      "ID": {
+        "value": "48b35b50-ca78-50f7-9897-9f6c4afc2883",
+        "index": 39
+      },
+      "Object name": "Mesh11 Marc1 Model",
+      "Layer name": "Layer 01",
+      "Render Material": {
+        "source": "from object",
+        "index": -1,
+        "name": "Marc_Skin"
+      },
+      "Geometry": {
+        "Valid mesh.": true,
+        "Open double precision polygon mesh": {
+          "vertices": 48,
+          "faces": 1,
+          "n_gons": 1,
+          "Bounding box": {
+            "min": [
+              0.491168,
+              1.48741,
+              -0.354134
+            ],
+            "max": [
+              0.653394,
+              1.63195,
+              -0.342954
+            ]
+          }
+        }
+      }
+    },
+    {
+      "mesh": "mesh",
+      "ID": {
+        "value": "960c2bcc-4840-55d1-833e-f08ae96128c8",
+        "index": 40
+      },
+      "Object name": "Mesh11 Marc1 Model",
+      "Layer name": "Layer 01",
+      "Render Material": {
+        "source": "from object",
+        "index": -1,
+        "name": "Marc_Shirt"
+      },
+      "Geometry": {
+        "Valid mesh.": true,
+        "Open double precision polygon mesh": {
+          "vertices": 15,
+          "faces": 13,
+          "n_gons": 0,
+          "Bounding box": {
+            "min": [
+              0.378478,
+              1.48022,
+              -0.3619
+            ],
+            "max": [
+              0.597334,
+              1.53676,
+              -0.346818
+            ]
+          }
+        }
+      }
+    },
+    {
+      "mesh": "mesh",
+      "ID": {
+        "value": "6cb35a58-818b-5706-8849-00201b6a238f",
+        "index": 41
+      },
+      "Object name": "Mesh11 Marc1 Model",
+      "Layer name": "Layer 01",
+      "Render Material": {
+        "source": "from object",
+        "index": -1,
+        "name": "Marc_Hair"
+      },
+      "Geometry": {
+        "Valid mesh.": true,
+        "Open double precision polygon mesh": {
+          "vertices": 39,
+          "faces": 37,
+          "n_gons": 0,
+          "Bounding box": {
+            "min": [
+              0.530418,
+              1.55175,
+              -0.351429
+            ],
+            "max": [
+              0.655754,
+              1.68373,
+              -0.342792
+            ]
+          }
+        }
+      }
+    },
+    {
+      "mesh": "mesh",
+      "ID": {
+        "value": "3a58305f-1f3e-56e5-8447-693400aff8bb",
+        "index": 42
+      },
+      "Object name": "Mesh11 Marc1 Model",
+      "Layer name": "Layer 01",
+      "Render Material": {
+        "source": "from object",
+        "index": -1,
+        "name": "Marc_Skin"
+      },
+      "Geometry": {
+        "Valid mesh.": true,
+        "Open double precision polygon mesh": {
+          "vertices": 122,
+          "faces": 3,
+          "n_gons": 3,
+          "Bounding box": {
+            "min": [
+              0.512552,
+              1.62054,
+              -0.352661
+            ],
+            "max": [
+              0.650807,
+              1.7868,
+              -0.343133
+            ]
+          }
+        }
+      }
+    },
+    {
+      "mesh": "mesh",
+      "ID": {
+        "value": "a73c24db-e80b-5aa0-8e54-87b33c5f21c3",
+        "index": 43
+      },
+      "Object name": "Mesh11 Marc1 Model",
+      "Layer name": "Layer 01",
+      "Render Material": {
+        "source": "from object",
+        "index": -1,
+        "name": "Marc_Shoes4"
+      },
+      "Geometry": {
+        "Valid mesh.": true,
+        "Open double precision polygon mesh": {
+          "vertices": 10,
+          "faces": 1,
+          "n_gons": 1,
+          "Bounding box": {
+            "min": [
+              0.501537,
+              1.6963,
+              -0.35342
+            ],
+            "max": [
+              0.54716,
+              1.70586,
+              -0.350276
+            ]
+          }
+        }
+      }
+    },
+    {
+      "mesh": "mesh",
+      "ID": {
+        "value": "93f3cbcf-e19a-5f88-bb53-bf8a9ad2e45f",
+        "index": 44
+      },
+      "Object name": "Mesh11 Marc1 Model",
+      "Layer name": "Layer 01",
+      "Render Material": {
+        "source": "from object",
+        "index": -1,
+        "name": "Marc_Skin"
+      },
+      "Geometry": {
+        "Valid mesh.": true,
+        "Open double precision polygon mesh": {
+          "vertices": 24,
+          "faces": 1,
+          "n_gons": 1,
+          "Bounding box": {
+            "min": [
+              0.54716,
+              1.68274,
+              -0.350276
+            ],
+            "max": [
+              0.595465,
+              1.71062,
+              -0.346947
+            ]
+          }
+        }
+      }
+    },
+    {
+      "mesh": "mesh",
+      "ID": {
+        "value": "6e7224de-8c88-5244-a150-b96dc2f87ba7",
+        "index": 45
+      },
+      "Object name": "Mesh11 Marc1 Model",
+      "Layer name": "Layer 01",
+      "Render Material": {
+        "source": "from object",
+        "index": -1,
+        "name": "Marc_Hair"
+      },
+      "Geometry": {
+        "Valid mesh.": true,
+        "Open double precision polygon mesh": {
+          "vertices": 123,
+          "faces": 3,
+          "n_gons": 2,
+          "Bounding box": {
+            "min": [
+              0.455128,
+              1.61523,
+              -0.356618
+            ],
+            "max": [
+              0.664999,
+              1.8208,
+              -0.342155
+            ]
+          }
+        }
+      }
+    },
+    {
+      "mesh": "mesh",
+      "ID": {
+        "value": "0a3fcadc-f747-53ea-91a6-f3e621b3790d",
+        "index": 46
+      },
+      "Object name": "Mesh11 Marc1 Model",
+      "Layer name": "Layer 01",
+      "Render Material": {
+        "source": "from object",
+        "index": -1,
+        "name": "Marc_Shoes4"
+      },
+      "Geometry": {
+        "Valid mesh.": true,
+        "Open double precision polygon mesh": {
+          "vertices": 4,
+          "faces": 1,
+          "n_gons": 0,
+          "Bounding box": {
+            "min": [
+              0.647267,
+              1.695,
+              -0.343377
+            ],
+            "max": [
+              0.654199,
+              1.70252,
+              -0.342899
+            ]
+          }
+        }
+      }
+    },
+    {
+      "mesh": "mesh",
+      "ID": {
+        "value": "428a2abb-8213-59c1-afa3-78a3aaf16b65",
+        "index": 47
+      },
+      "Object name": "Mesh11 Marc1 Model",
+      "Layer name": "Layer 01",
+      "Render Material": {
+        "source": "from object",
+        "index": -1,
+        "name": "Marc_Hair"
+      },
+      "Geometry": {
+        "Valid mesh.": true,
+        "Open double precision polygon mesh": {
+          "vertices": 7,
+          "faces": 1,
+          "n_gons": 1,
+          "Bounding box": {
+            "min": [
+              0.648256,
+              1.6851,
+              -0.343308
+            ],
+            "max": [
+              0.654199,
+              1.69608,
+              -0.342899
+            ]
+          }
+        }
+      }
+    },
+    {
+      "mesh": "mesh",
+      "ID": {
+        "value": "481ae49f-d8fd-5527-9f22-8fb2de656cf8",
+        "index": 48
+      },
+      "Object name": "Mesh11 Marc1 Model",
+      "Layer name": "Layer 01",
+      "Render Material": {
+        "source": "from object",
+        "index": -1,
+        "name": "Marc_Shoes4"
+      },
+      "Geometry": {
+        "Valid mesh.": true,
+        "Open double precision polygon mesh": {
+          "vertices": 6,
+          "faces": 1,
+          "n_gons": 1,
+          "Bounding box": {
+            "min": [
+              0.653251,
+              1.695,
+              -0.342964
+            ],
+            "max": [
+              0.659346,
+              1.70607,
+              -0.342544
+            ]
+          }
+        }
+      }
+    },
+    {
+      "mesh": "mesh",
+      "ID": {
+        "value": "50065ae2-e0b8-5c18-a70e-da21db911999",
+        "index": 49
+      },
+      "Object name": "Mesh11 Marc1 Model",
+      "Layer name": "Layer 01",
+      "Render Material": {
+        "source": "from object",
+        "index": -1,
+        "name": "Marc_Hair"
+      },
+      "Geometry": {
+        "Valid mesh.": true,
+        "Open double precision polygon mesh": {
+          "vertices": 11,
+          "faces": 9,
+          "n_gons": 0,
+          "Bounding box": {
+            "min": [
+              0.509553,
+              1.58956,
+              -0.352867
+            ],
+            "max": [
+              0.574867,
+              1.6483,
+              -0.348366
+            ]
+          }
+        }
+      }
+    },
+    {
+      "mesh": "mesh",
+      "ID": {
+        "value": "7c885ae9-f433-5dc5-a480-f5d43861d675",
+        "index": 50
+      },
+      "Object name": "Mesh11 Marc1 Model",
+      "Layer name": "Layer 01",
+      "Render Material": {
+        "source": "from object",
+        "index": -1,
+        "name": "Marc_Skin"
+      },
+      "Geometry": {
+        "Valid mesh.": true,
+        "Open double precision polygon mesh": {
+          "vertices": 41,
+          "faces": 1,
+          "n_gons": 1,
+          "Bounding box": {
+            "min": [
+              0.565565,
+              1.60192,
+              -0.349007
+            ],
+            "max": [
+              0.632651,
+              1.63915,
+              -0.344384
+            ]
+          }
+        }
+      }
+    },
+    {
+      "mesh": "mesh",
+      "ID": {
+        "value": "7b0c10f2-18f4-5fab-8084-b5a37c088b29",
+        "index": 51
+      },
+      "Object name": "Mesh11 Marc1 Model",
+      "Layer name": "Layer 01",
+      "Render Material": {
+        "source": "from object",
+        "index": -1,
+        "name": "Marc_Hair"
+      },
+      "Geometry": {
+        "Valid mesh.": true,
+        "Open double precision polygon mesh": {
+          "vertices": 74,
+          "faces": 63,
+          "n_gons": 0,
+          "Bounding box": {
+            "min": [
+              0.501537,
+              1.60192,
+              -0.35342
+            ],
+            "max": [
+              0.642751,
+              1.70164,
+              -0.343688
+            ]
+          }
+        }
+      }
+    },
+    {
+      "mesh": "mesh",
+      "ID": {
+        "value": "8f0ad227-3982-5555-ab74-6a93ab6b5b18",
+        "index": 52
+      },
+      "Object name": "Mesh11 Marc1 Model",
+      "Layer name": "Layer 01",
+      "Render Material": {
+        "source": "from object",
+        "index": -1,
+        "name": "Marc_Skin"
+      },
+      "Geometry": {
+        "Valid mesh.": true,
+        "Open double precision polygon mesh": {
+          "vertices": 26,
+          "faces": 1,
+          "n_gons": 1,
+          "Bounding box": {
+            "min": [
+              0.480082,
+              1.64751,
+              -0.354898
+            ],
+            "max": [
+              0.509553,
+              1.70453,
+              -0.352867
+            ]
+          }
+        }
+      }
+    },
+    {
+      "mesh": "mesh",
+      "ID": {
+        "value": "57b5cb7e-17bd-5374-b6ed-4577c9dd7022",
+        "index": 53
+      },
+      "Object name": "Mesh11 Marc1 Model",
+      "Layer name": "Layer 01",
+      "Render Material": {
+        "source": "from object",
+        "index": -1,
+        "name": "Marc_Hair"
+      },
+      "Geometry": {
+        "Valid mesh.": true,
+        "Open double precision polygon mesh": {
+          "vertices": 7,
+          "faces": 5,
+          "n_gons": 0,
+          "Bounding box": {
+            "min": [
+              0.570774,
+              1.54878,
+              -0.348648
+            ],
+            "max": [
+              0.622106,
+              1.55575,
+              -0.345111
+            ]
+          }
+        }
+      }
+    },
+    {
+      "mesh": "mesh",
+      "ID": {
+        "value": "1b0c6832-9935-5d6c-a148-5baf99c13d25",
+        "index": 54
+      },
+      "Object name": "Mesh11 Marc1 Model",
+      "Layer name": "Layer 01",
+      "Render Material": {
+        "source": "from object",
+        "index": -1,
+        "name": "Marc_Shirt"
+      },
+      "Geometry": {
+        "Valid mesh.": true,
+        "Open double precision polygon mesh": {
+          "vertices": 28,
+          "faces": 26,
+          "n_gons": 0,
+          "Bounding box": {
+            "min": [
+              0.31196,
+              1.27181,
+              -0.366485
+            ],
+            "max": [
+              0.534848,
+              1.4445,
+              -0.351124
+            ]
+          }
+        }
+      }
+    },
+    {
+      "mesh": "mesh",
+      "ID": {
+        "value": "ca3292bd-5f14-5277-a827-16c10f175616",
+        "index": 55
+      },
+      "Object name": "Mesh11 Marc1 Model",
+      "Layer name": "Layer 01",
+      "Render Material": {
+        "source": "from object",
+        "index": -1,
+        "name": "Marc_Shirt2"
+      },
+      "Geometry": {
+        "Valid mesh.": true,
+        "Open double precision polygon mesh": {
+          "vertices": 72,
+          "faces": 1,
+          "n_gons": 1,
+          "Bounding box": {
+            "min": [
+              0.47602,
+              1.35564,
+              -0.355178
+            ],
+            "max": [
+              0.607309,
+              1.41985,
+              -0.34613
+            ]
+          }
+        }
+      }
+    },
+    {
+      "mesh": "mesh",
+      "ID": {
+        "value": "eccaa1de-ce2d-58b9-aab0-e3e098e806e8",
+        "index": 56
+      },
+      "Object name": "Mesh11 Marc1 Model",
+      "Layer name": "Layer 01",
+      "Render Material": {
+        "source": "from object",
+        "index": -1,
+        "name": "Marc_Shirt"
+      },
+      "Geometry": {
+        "Valid mesh.": true,
+        "Open double precision polygon mesh": {
+          "vertices": 287,
+          "faces": 268,
+          "n_gons": 0,
+          "Bounding box": {
+            "min": [
+              0.481071,
+              0.992446,
+              -0.35483
+            ],
+            "max": [
+              0.753341,
+              1.41938,
+              -0.336066
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "Mesh totals": {
+    "meshes": 55,
+    "vertices": 30968,
+    "polygons": 54419
+  }
+}

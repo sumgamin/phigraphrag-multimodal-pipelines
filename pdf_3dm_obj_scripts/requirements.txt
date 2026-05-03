@@ -1,0 +1,30 @@
+# CAD / 3D
+rhino3dm
+
+# Graph database
+neo4j
+
+# LangChain + OpenAI
+langchain-community
+langchain-core
+langchain-openai
+openai
+
+# PDF processing
+pdf2image         
+
+# ML / Embeddings
+torch
+sentence-transformers
+transformers
+
+# Image processing
+Pillow
+
+# LLM inference (local)
+ollama
+
+# Utilities
+python-dotenv
+requests
+tqdm

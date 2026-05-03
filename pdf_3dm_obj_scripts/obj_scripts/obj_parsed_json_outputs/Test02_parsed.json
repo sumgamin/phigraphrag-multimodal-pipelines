@@ -1,0 +1,43 @@
+{
+  "meshes": [
+    {
+      "mesh": "mesh",
+      "ID": {
+        "value": "972516b6-a098-5612-8815-ec644038fe44",
+        "index": 2
+      },
+      "Object name": "Default",
+      "Layer name": "Layer 01",
+      "Render Material": {
+        "source": "from object",
+        "index": -1,
+        "name": "diffuse_0"
+      },
+      "Geometry": {
+        "Valid mesh.": true,
+        "Open double precision polygon mesh": {
+          "vertices": 177347,
+          "faces": 177737,
+          "n_gons": 0,
+          "Bounding box": {
+            "min": [
+              -3.9851582050323486,
+              -3.9777092933654785,
+              -3.9993739128112793
+            ],
+            "max": [
+              3.947850465774536,
+              3.9992406368255615,
+              3.9875636100769043
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "Mesh totals": {
+    "meshes": 1,
+    "vertices": 177347,
+    "polygons": 177737
+  }
+}

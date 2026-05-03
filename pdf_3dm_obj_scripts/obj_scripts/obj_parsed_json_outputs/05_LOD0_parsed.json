@@ -1,0 +1,111 @@
+{
+  "meshes": [
+    {
+      "mesh": "mesh",
+      "ID": {
+        "value": "dcf07d3e-ff05-5703-b93b-bf9158475b3a",
+        "index": 2
+      },
+      "Object name": "default",
+      "Layer name": "Layer 01",
+      "Render Material": {
+        "source": "from object",
+        "index": -1,
+        "name": "05_LOD0_u1_v1"
+      },
+      "Geometry": {
+        "Valid mesh.": true,
+        "Open double precision polygon mesh": {
+          "vertices": 499833,
+          "faces": 1000062,
+          "n_gons": 0,
+          "Bounding box": {
+            "min": [
+              -9.080710411071777,
+              -30.92793846130371,
+              -6.123247146606445
+            ],
+            "max": [
+              11.762229919433594,
+              15.85006332397461,
+              36.239227294921875
+            ]
+          }
+        }
+      }
+    },
+    {
+      "mesh": "mesh",
+      "ID": {
+        "value": "326caa1c-d9b5-5192-bde4-e646881d7f78",
+        "index": 3
+      },
+      "Object name": "default",
+      "Layer name": "Layer 01",
+      "Render Material": {
+        "source": "from object",
+        "index": -1,
+        "name": "05_LOD0_u2_v1"
+      },
+      "Geometry": {
+        "Valid mesh.": true,
+        "Open double precision polygon mesh": {
+          "vertices": 11200,
+          "faces": 16800,
+          "n_gons": 0,
+          "Bounding box": {
+            "min": [
+              -5.497378826141357,
+              -25.783109664916992,
+              -1.1001911163330078
+            ],
+            "max": [
+              5.851585388183594,
+              10.461641311645508,
+              26.101097106933594
+            ]
+          }
+        }
+      }
+    },
+    {
+      "mesh": "mesh",
+      "ID": {
+        "value": "2ab44d47-c884-5c14-856e-d91685d13c53",
+        "index": 4
+      },
+      "Object name": "default",
+      "Layer name": "Layer 01",
+      "Render Material": {
+        "source": "from object",
+        "index": -1,
+        "name": "05_LOD0_u1_v2"
+      },
+      "Geometry": {
+        "Valid mesh.": true,
+        "Open double precision polygon mesh": {
+          "vertices": 88,
+          "faces": 129,
+          "n_gons": 0,
+          "Bounding box": {
+            "min": [
+              -0.15879730880260468,
+              3.253925085067749,
+              11.824705123901367
+            ],
+            "max": [
+              0.4417935311794281,
+              5.804605484008789,
+              12.162956237792969
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "Mesh totals": {
+    "meshes": 3,
+    "vertices": 511121,
+    "polygons": 1016991
+  }
+}

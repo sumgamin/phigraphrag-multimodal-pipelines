@@ -1,0 +1,12 @@
+{
+  "pdf_input_dir": "pdf_inputs",
+  "markdown_dir": "ocr_outputs/md",
+  "crops_dir": "ocr_outputs/crops",
+  "kg_out_dir": "kg_out",
+  "ocr_model": "deepseek-ocr",
+  "dpi": 200,
+  "pad": 20,
+  "caption_model_ollama": "qwen2.5vl:3b",
+  "text_embed_model": "all-MiniLM-L6-v2",
+  "clip_model": "openai/clip-vit-base-patch32"
+}

@@ -1,0 +1,77 @@
+{
+  "meshes": [
+    {
+      "mesh": "mesh",
+      "ID": {
+        "value": "4a4895c1-9e22-562e-a243-01ca5b3aa897",
+        "index": 2
+      },
+      "Object name": "default",
+      "Layer name": "Layer 01",
+      "Render Material": {
+        "source": "from object",
+        "index": -1,
+        "name": "02_LOD0_u0_v0"
+      },
+      "Geometry": {
+        "Valid mesh.": true,
+        "Open double precision polygon mesh": {
+          "vertices": 289546,
+          "faces": 537412,
+          "n_gons": 0,
+          "Bounding box": {
+            "min": [
+              -11.741801261901855,
+              -24.412200927734375,
+              -8.562389373779297
+            ],
+            "max": [
+              11.81126594543457,
+              21.76190948486328,
+              55.162811279296875
+            ]
+          }
+        }
+      }
+    },
+    {
+      "mesh": "mesh",
+      "ID": {
+        "value": "87a615e6-6c02-5506-8e46-9e6a231aab0f",
+        "index": 3
+      },
+      "Object name": "default",
+      "Layer name": "Layer 01",
+      "Render Material": {
+        "source": "from object",
+        "index": -1,
+        "name": "02_LOD0_u1_v0"
+      },
+      "Geometry": {
+        "Valid mesh.": true,
+        "Open double precision polygon mesh": {
+          "vertices": 245278,
+          "faces": 462494,
+          "n_gons": 0,
+          "Bounding box": {
+            "min": [
+              -10.38637638092041,
+              -2.2762291431427,
+              -2.7790355682373047
+            ],
+            "max": [
+              1.3802247047424316,
+              11.232338905334473,
+              26.543907165527344
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "Mesh totals": {
+    "meshes": 2,
+    "vertices": 534824,
+    "polygons": 999906
+  }
+}
